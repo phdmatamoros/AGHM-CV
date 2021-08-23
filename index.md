@@ -49,7 +49,7 @@ Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at Praxis(Me
 <br>
 -Postdoctoral Stay (01/2019 - 10/2020) Iwate Prefectural University. Fujita’s Laboratory. Research in Arrhythmia detection using Deep Learning<br>
 <br>
--Organizing Chair: SoMeT 2021 Mexico-Cancun<br>
+-Organizing Chair: [SoMeT 2021 Mexico-Cancun](https://atenea.esimecu.ipn.mx/)<br>
 <br>
 -Publicity Chair: SoMeT 2020 Japan Kytakyushu<br>
 <br>
