@@ -61,7 +61,7 @@ Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. Ocean Industrial Scienc
 <br>-Professor at the Technological School of Mexico from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.<br>
 
 ## Journal Publications:
--J7. <u>Hernandez-Matamoros</u>, A., Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
+-J7. <u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
 <br>-J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [Less complexity oneclass classification approach using construction error of convolutional image transformation network](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255]<br>
 <br>-J5.<u>Hernandez-Matamoros, A.</u>, Toshitaka H., Fujita, H., Hector Perez-Meana, [Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions](https://doi.org/10.1016/j.asoc.2020.106610), Applied Soft Computing, Volume 96, 2020, 106610, ISSN 1568-4946, <br>
 <br>-J4.<u>Hernandez-Matamoros, A.</u>, Fujita, H., & Perez-Meana, H. (2020). [A novel approach to create synthetic biomedical signals using BiRNN](https://www.sciencedirect.com/science/article/pii/S0020025520306071), Information Sciences<br>
