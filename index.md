@@ -109,8 +109,6 @@ Microcontrollers<br>
 Spectrum analyzers<br>
 Oscilloscope<br>
 Function generator.
-## Hobbies:
-Reading, Swimming, Chess.
 ## Personal & Professional references
 Upon Request
 
