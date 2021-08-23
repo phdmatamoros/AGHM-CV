@@ -1,14 +1,15 @@
 ## Andres Hernandez-Matamoros
 
-Contact:\\
-Email: phd.matamoros@gmail.com
-Google Scholar: https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en
-LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-h-ab626b78
+Contact:<br>
+Email: phd.matamoros@gmail.com<br>
+Google Scholar: https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en<br>
+LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-h-ab626b78<br>
 
 
-### Markdown
+### Areas of interest
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection
 
 ```markdown
 Syntax highlighted code block
