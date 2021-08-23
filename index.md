@@ -1,12 +1,12 @@
 ## Andres Hernandez-Matamoros
 
 Contact:<br>
-Email: phd.matamoros@gmail.com<br>
+
 [Google Scholar]( https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en)
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-h-ab626b78)
 [ORCID](https://orcid.org/0000-0002-4896-2909)
-[Research Map](https://researchmap.jp/matamoros?lang=en)
-
+[Research Map](https://researchmap.jp/matamoros?lang=en)<br>
+Email: phd.matamoros@gmail.com<br>
 
 ### Areas of interest
 
