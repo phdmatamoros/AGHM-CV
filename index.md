@@ -12,10 +12,12 @@ Email: phd.matamoros@gmail.com<br>
 Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection<br>
 
 ## Projects
-
-[A novel approach to create synthetic biomedical signals using BiRNN](https://phdmatamoros.github.io/BiRNN/)
-
-
+[Anomaly Detection](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/members)<br>
+[Forecasting of Covid-19](https://doi.org/10.1016/j.asoc.2020.106610)<br>
+[Creating synthetic biomedical signals](https://phdmatamoros.github.io/BiRNN/)<br>
+[Recognition of ECG Signals](https://doi.org/10.1016/j.bbe.2020.02.007)<br>
+[Skin detection](https://doi.org/10.1007/s12652-019-01400-4)<br>
+[Facial Expression Recognition](http://dx.doi.org/10.1016/j.knosys.2016.07.011)
 
 # Education
 <p style="text-align:left;">
