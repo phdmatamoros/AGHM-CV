@@ -22,6 +22,7 @@ Academic Degrees<br>
 -2014 - 2018 National Polytechnic Institute, Mexico City.
 Title of the Thesis “Facial Expression Recognition”
 Ph.D. on Communications and Electronics (Honorific Mention). <br>
+<br>
 -2011 - 2013 National Polytechnic Institute, Mexico City.
 Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms."
 Master in Microelectronics Engineering. <br>
