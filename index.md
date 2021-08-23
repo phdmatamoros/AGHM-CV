@@ -16,28 +16,28 @@ Syntax highlighted code block
 
 # Education
 Academic Degrees
-2014-2018 National Polytechnic Institute, Mexico City.
+-2014-2018 National Polytechnic Institute, Mexico City.
 Title of the Thesis “Facial Expression Recognition”
 Ph.D. on Communications and Electronics (Honorific Mention). Advisor Ph.D. Hector Manuel Perez
 Meana. During the Doctorate, an algorithm to automatically extract the interest regions of face and
 a classifier based on clustering techniques and fuzzy logic were developed.
-2011-2013 National Polytechnic Institute, Mexico City.
+-2011-2013 National Polytechnic Institute, Mexico City.
 Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms."
 Master in Microelectronics Engineering. Advisors Ph.D. Hector Manuel Perez Meana and PhD.
 Enrique Escamilla Hernandez. During the Master's Program, an unsupervised learning algorithm was
 developed for robotic applications, learning an image through the Internet. It was also tested in
 recognition of environmental sounds, surpassing the results obtained by an Artificial Neural
 Network and equaling the results of a vector support machine.
-2006 - 2011 Autonomous Metropolitan University, Mexico City.
+-2006 - 2011 Autonomous Metropolitan University, Mexico City.
 Electronic Engineer
 # Research stays
-University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial
+-University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial
 expressions in the wild. Advisor PhD. Takayuki Nagai.
-Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using
+-Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using
 OpenCV to detect the face, then a machine learning technique was proposed to recognize the face
 regions. Advisor PhD. Andrea Bonarini.
 #  Other courses
-Japanese University Studies in Science & Technology (JUSST) (April 2015 -March 2016)
+-Japanese University Studies in Science & Technology (JUSST) (April 2015 -March 2016)
 
 - Bulleted
 - List
