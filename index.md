@@ -103,3 +103,8 @@ Function generator.
 Reading, Swimming, Chess.
 ### Personal & Professional references
 Upon Request
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
