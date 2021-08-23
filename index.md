@@ -19,7 +19,7 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 
 # Education
 <br>
-<p style="text-align:center;">
+<p style="text-align:left;">
 -2014 - 2018 National Polytechnic Institute, Mexico City.
 Title of the Thesis “Facial Expression Recognition”
 Ph.D. on Communications and Electronics (Honorific Mention). <br>
