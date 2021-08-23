@@ -1,6 +1,5 @@
 ## Andres Hernandez-Matamoros
 
-Contact:<br>
 [Google Scholar]( https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en)
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-h-ab626b78)
 [ORCID](https://orcid.org/0000-0002-4896-2909)
@@ -18,16 +17,10 @@ Syntax highlighted code block
 Academic Degrees
 -2014-2018 National Polytechnic Institute, Mexico City.
 Title of the Thesis “Facial Expression Recognition”
-Ph.D. on Communications and Electronics (Honorific Mention). Advisor Ph.D. Hector Manuel Perez
-Meana. During the Doctorate, an algorithm to automatically extract the interest regions of face and
-a classifier based on clustering techniques and fuzzy logic were developed.
+Ph.D. on Communications and Electronics (Honorific Mention). A
 -2011-2013 National Polytechnic Institute, Mexico City.
 Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms."
-Master in Microelectronics Engineering. Advisors Ph.D. Hector Manuel Perez Meana and PhD.
-Enrique Escamilla Hernandez. During the Master's Program, an unsupervised learning algorithm was
-developed for robotic applications, learning an image through the Internet. It was also tested in
-recognition of environmental sounds, surpassing the results obtained by an Artificial Neural
-Network and equaling the results of a vector support machine.
+Master in Microelectronics Engineering. 
 -2006 - 2011 Autonomous Metropolitan University, Mexico City.
 Electronic Engineer
 # Research stays
@@ -50,12 +43,20 @@ regions. Advisor PhD. Andrea Bonarini.
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Languages:
+English: spoken 90 % written 90%.
+Italian: spoken 25 % written 25%.
+Japanese: spoken 10 % written 10%.
+### Software:
+Windows, Linux, MAC OS, Office, Matlab, Simulink, System Generator, ISE 6.1 Xilinx, Nallatech FUSE,
+AVR Studio, Pony Prog, Code::Blocks , Dev-C++, Visual Studio, OpenCV, Anaconda, Python, Pandas,
+Matplotlib, Scikit-learn, Keras, TensorFlow, Pythorch
+### Hardware:
+• FPGA Virtex II and Spartan-3, Microcontrollers
+• Spectrum analyzers, Oscilloscope, Function generator.
+### Hobbies:
+Reading, Swimming, Chess.
 
-### Jekyll Themes
+### Personal & Professional references
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phdmatamoros/AGHM-CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Upon Request
