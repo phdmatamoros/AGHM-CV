@@ -20,31 +20,26 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 [Facial Expression Recognition](http://dx.doi.org/10.1016/j.knosys.2016.07.011)
 
 # Education
-<p style="text-align:left;">
 -2014 - 2018 National Polytechnic Institute, Mexico City. Title of the Thesis “Facial Expression Recognition” Ph.D. on Communications and Electronics (Honorific Mention). <br>
 <br>
 -2011 - 2013 National Polytechnic Institute, Mexico City.Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms." Master in Microelectronics Engineering. <br>
  <br>
 -2006 - 2011 Autonomous Metropolitan University, Mexico City. Electronic Engineer
- </p>
 # Research stays
--University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor PhD. Takayuki Nagai.<br>
-<br>
--Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor PhD. Andrea Bonarini.
+-University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [PhD. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/)<br>
+-Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [PhD. Andrea Bonarini](https://bonarini.faculty.polimi.it/)
 <br>
 #  Other courses
 -Japanese University Studies in Science & Technology ([JUSST](jusst.pdf)) (April 2015 - March 2016)
 
-
-
 ## Professional experience:
 ### Working experience
-Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at Praxis(Mexico). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and gave them advice applying A.I. to costumers.
+Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and gave them advice applying A.I. to costumers.
 <br>
 ### Academic experience
-Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. Ocean Industrial Science, Technology & Environmental Relations Lab. Research in Anomaly Detection applying Deep learnig.<br>
+Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
 <br>
--Postdoctoral Stay (01/2019 - 10/2020) Iwate Prefectural University. Fujita’s Laboratory. Research in Arrhythmia detection using Deep Learning<br>
+-Postdoctoral Stay (01/2019 - 10/2020) Iwate Prefectural University. [Fujita’s Laboratory](http://www.fujita.soft.iwate-pu.ac.jp/). Research in Arrhythmia detection using Deep Learning<br>
 <br>
 -Organizing Chair: [SoMeT 2021 Mexico-Cancun](https://atenea.esimecu.ipn.mx/)<br>
 <br>
@@ -77,7 +72,7 @@ Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. Ocean Industrial Scienc
 <br>-C5. <u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, “Facial Expression Recognition in the wild” Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 34. Poster presentation. 2015<br>
 <br>-C4. <u>A. Hernandez-Matamoros</u>, Andrea Bonarini, E. Escamilla-Hernandez, M. Nakano-Miyatake and H. Perez-Meana. [A Facial Expression Recognition with Automatic Segmentation of Face Regions](https://link.springer.com/chapter/10.1007%2F978-3-319-22689-7_41). Intelligent Software Methodologies, Tools and Techniques: 14th International Conference, SoMet 2015, Naples, Italy, September 15-17, 2015. Proceedings. Springer Pags. 529-540. ISBN 978-3-319- 22689-7<br>
 <br>-C3. <u>A. Hernandez-Matamoros</u>, E. Escamilla-Hernandez, K. Perez-Daniel, M. Nakano-Miyatake and H. Perez-Meana, [A supervised classifier scheme based on clustering algorithms](https://ieeexplore.ieee.org/document/7000404), Central America and Panama Convention (CONCAPAN XXXIV), 2014 IEEE, Panama City, 2014, pp. 1-5.<br>
-<br>-C2. <u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Learning an object through images obtained from the Internet using Unsupervised Learning](pahuca.pdf), 9° International Congress Technological Trends in Computation indexed to the journal, "Research in Computer Science", 2013<br> 
+<br>-C2. <u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Learning an object through images obtained from the Internet using Unsupervised Learning](cidetec.pdf), 9° International Congress Technological Trends in Computation indexed to the journal, "Research in Computer Science", 2013<br> 
 <br>-C1. <u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Object Learning using images from the Internet through Unsupervised Learning](pachuca.pdf) SIMCI 2013 <br>
 
 ## Languages:
