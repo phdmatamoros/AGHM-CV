@@ -19,10 +19,10 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 
 # Education
 Academic Degrees<br>
--2014-2018 National Polytechnic Institute, Mexico City.
+-2014 - 2018 National Polytechnic Institute, Mexico City.
 Title of the Thesis “Facial Expression Recognition”
 Ph.D. on Communications and Electronics (Honorific Mention). <br>
--2011-2013 National Polytechnic Institute, Mexico City.
+-2011 - 2013 National Polytechnic Institute, Mexico City.
 Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms."
 Master in Microelectronics Engineering. <br>
 -2006 - 2011 Autonomous Metropolitan University, Mexico City.
@@ -67,9 +67,9 @@ Digital Signal Processing.<br>
 Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus,
 Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.<br>
 ## Journal Publications:
--J7. <b>Hernandez-Matamoros</b>, A., Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under
+-J7. <u>Hernandez-Matamoros</u>, A., Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under
 revision<br>
--J6. Toshitaka Hayashi, Hamido Fujita, <b>Andres Hernandez-Matamoros</b>, “Less complexity oneclass classification approach using construction error of convolutional image transformation network”,Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255,https://doi.org/10.1016/j.ins.2021.01.069<br>
+-J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, “Less complexity oneclass classification approach using construction error of convolutional image transformation network”,Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255,https://doi.org/10.1016/j.ins.2021.01.069<br>
 -J5. Hernandez-Matamoros, A.</b>, Toshitaka H., Fujita, H., Hector Perez-Meana, “Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions", Applied Soft Computing, Volume 96, 2020, 106610, ISSN 1568-4946, https://doi.org/10.1016/j.asoc.2020.106610<br>
 -J4. <b>Hernandez-Matamoros, A., Fujita, H., & Perez-Meana, H. (2020). A novel approach to create synthetic biomedical signals using BiRNN. Information Sciences, doi:10.1016/j.ins.2020.06.019<br>
 -J3. <b>Hernandez-Matamoros, A.</b>, Fujita, H., Nakano-Miyatake, M. et al. "Recognition of ECG Signals Using Wavelet Based on Atomic Functions " Journal Biocybernetics and Biomedical Engineering(2020). https://doi.org/10.1016/j.bbe.2020.02.007<br>
