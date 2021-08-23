@@ -2,14 +2,14 @@
 
 Contact:<br>
 Email: phd.matamoros@gmail.com<br>
-Google Scholar: https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en<br>
-LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-h-ab626b78<br>
+[Google Scholar]( https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en)
+[LinkedIn] (https://www.linkedin.com/in/andr%C3%A9s-h-ab626b78)
 
 
 ### Areas of interest
 
 
-Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection
+Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection<br>
 
 ```markdown
 Syntax highlighted code block
