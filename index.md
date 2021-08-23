@@ -18,7 +18,6 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 
 
 # Education
-<br>
 <p style="text-align:left;">
 -2014 - 2018 National Polytechnic Institute, Mexico City. Title of the Thesis “Facial Expression Recognition” Ph.D. on Communications and Electronics (Honorific Mention). <br>
 <br>
@@ -27,20 +26,17 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 -2006 - 2011 Autonomous Metropolitan University, Mexico City. Electronic Engineer
  </p>
 # Research stays
-<br>
 -University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor PhD. Takayuki Nagai.<br>
 <br>
 -Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor PhD. Andrea Bonarini.
 <br>
 #  Other courses
-<br>
 -Japanese University Studies in Science & Technology (JUSST) (April 2015 - March 2016)
 
 
 
 ## Professional experience:
-<br>
-### Working experienc
+### Working experience
 <br>
 Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at Praxis(Mexico). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and gave them advice applying A.I. to costumers.
 <br>
@@ -64,7 +60,7 @@ Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at Praxis(Me
 <br>-Professor at the Technological School of Mexico from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.<br>
 
 ## Journal Publications:
-<br>-J7. <u>Hernandez-Matamoros</u>, A., Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
+-J7. <u>Hernandez-Matamoros</u>, A., Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
 <br>-J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [“Less complexity oneclass classification approach using construction error of convolutional image transformation network”](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255]<br>
 <br>-J5.<u> Hernandez-Matamoros, A.</u>, Toshitaka H., Fujita, H., Hector Perez-Meana, [“Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions"](https://doi.org/10.1016/j.asoc.2020.106610), Applied Soft Computing, Volume 96, 2020, 106610, ISSN 1568-4946, <br>
 <br>-J4. <u>Hernandez-Matamoros, A.</u>, Fujita, H., & Perez-Meana, H. (2020). [A novel approach to create synthetic biomedical signals using BiRNN](https://www.sciencedirect.com/science/article/pii/S0020025520306071), Information Sciences<br>
@@ -73,7 +69,7 @@ Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at Praxis(Me
 <br>-J1. <u>Andres Hernández-Matamoros</u>, Andrea Bonarini, Enrique Escamilla-Hernández, Mariko NakanoMiyatake, Héctor Pérez-Meana, [Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach](http://dx.doi.org/10.1016/j.knosys.2016.07.011), Knowledge-Based Systems, (2016), ISSN 0950-7051,.<br>
 <br>
 ## Conference Publications:
-<br>-C9. <u>Hernandez-Matamoros</u>, A., Fujita, & Perez-Meana, H. [Heart Beat Recognition using a novel preprocessing scheme and Neural Networks](https://ebooks.iospress.nl/volumearticle/55482) (pp. 162-172). (Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques). DOI 10.3233/FAIA200562.<br>
+-C9. <u>Hernandez-Matamoros</u>, A., Fujita, & Perez-Meana, H. [Heart Beat Recognition using a novel preprocessing scheme and Neural Networks](https://ebooks.iospress.nl/volumearticle/55482) (pp. 162-172). (Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques). DOI 10.3233/FAIA200562.<br>
 <br>-C8. <u>Hernandez-Matamoros</u>, A., Fujita, H., Nakano, M., Perez-Meana, H.,& Hernandez-Escamilla E.(2019).[A Scheme to Classify Skin Through Geographic Distribution of Tonalities Using Fuzzy Based Classification Approach](https://ebooks.iospress.nl/volumearticle/52672) (pp. 3-10). (Frontiers in Artificial Intelligence and Applications; Vol. 318). DOI 10.3233/FAIA190034.<br>
 <br>-C7. <u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [“Facial expression recognition in unconstrained environment”](https://ebooks.iospress.nl/volumearticle/47594) (2017) (Frontiers in Artificial Intelligence and Applications; Vol. 297, pages 525-538) ISSN (Print)0922-6389<br>
 <br>-C6. <u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, “Facial Expression Recognition in the wild” Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 35. Oral presentation. 2016<br>
@@ -84,19 +80,17 @@ Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at Praxis(Me
 <br>-C1. <u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, "Object Learning using images from the Internet through Unsupervised Learning" SIMCI 2013 <br>
 
 ## Languages:
-<br>
 English: spoken 90 % written 90%.<br>
 Italian: spoken 25 % written 25%.<br>
 Japanese: spoken 10 % written 10%.<br>
 <br>
 ## Software:
-<br>
 Windows, Linux, MAC OS, Office, Matlab, Simulink, System Generator, ISE 6.1 Xilinx, Nallatech FUSE,
 AVR Studio, Pony Prog, Code::Blocks , Dev-C++, Visual Studio, OpenCV, Anaconda, Python, Pandas,
 Matplotlib, Scikit-learn, Keras, TensorFlow, Pythorch
 <br>
 ## Hardware:
-<br>FPGA Virtex II and Spartan-3<br>
+FPGA Virtex II and Spartan-3<br>
 Microcontrollers<br>
 Spectrum analyzers<br>
 Oscilloscope<br>
