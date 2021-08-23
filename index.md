@@ -11,7 +11,7 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 
 ### Projects
 
-[A novel approach to create synthetic biomedical signals using BiRNN](https://phdmatamoros.github.io/BiRNN/),
+[A novel approach to create synthetic biomedical signals using BiRNN](https://phdmatamoros.github.io/BiRNN/)
 
 
 ```markdown
