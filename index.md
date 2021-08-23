@@ -20,25 +20,17 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 # Education
 <br>
 <p style="text-align:left;">
--2014 - 2018 National Polytechnic Institute, Mexico City.
-Title of the Thesis “Facial Expression Recognition”
-Ph.D. on Communications and Electronics (Honorific Mention). <br>
+-2014 - 2018 National Polytechnic Institute, Mexico City. Title of the Thesis “Facial Expression Recognition” Ph.D. on Communications and Electronics (Honorific Mention). <br>
 <br>
--2011 - 2013 National Polytechnic Institute, Mexico City.
-Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms."
-Master in Microelectronics Engineering. <br>
+-2011 - 2013 National Polytechnic Institute, Mexico City.Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms." Master in Microelectronics Engineering. <br>
  <br>
--2006 - 2011 Autonomous Metropolitan University, Mexico City.
-Electronic Engineer
+-2006 - 2011 Autonomous Metropolitan University, Mexico City. Electronic Engineer
  </p>
 # Research stays
 <br>
--University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial
-expressions in the wild. Advisor PhD. Takayuki Nagai.<br>
+-University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor PhD. Takayuki Nagai.<br>
 <br>
--Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using
-OpenCV to detect the face, then a machine learning technique was proposed to recognize the face
-regions. Advisor PhD. Andrea Bonarini.
+-Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor PhD. Andrea Bonarini.
 <br>
 #  Other courses
 <br>
@@ -48,36 +40,25 @@ regions. Advisor PhD. Andrea Bonarini.
 
 ## Professional experience:
 ### Working experience
-Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at Praxis(Mexico). I was keeping
-in touch with all areas at Praxis to apply A.I. in areas like Big Data, Health, Financial, etc. I had the
-responsibility to create white papers and gave them advice applying A.I. to costumers.
+Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at Praxis(Mexico). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and gave them advice applying A.I. to costumers.
 ### Academic experience
--Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. Ocean Industrial Science, Technology &
-Environmental Relations Lab. Research in Anomaly Detection applying Deep learnig.<br>
--Postdoctoral Stay (01/2019 - 10/2020) Iwate Prefectural University. Fujita’s Laboratory. Research in
-Arrhythmia detection using Deep Learning<br>
+-Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. Ocean Industrial Science, Technology & Environmental Relations Lab. Research in Anomaly Detection applying Deep learnig.<br>
+-Postdoctoral Stay (01/2019 - 10/2020) Iwate Prefectural University. Fujita’s Laboratory. Research in Arrhythmia detection using Deep Learning<br>
 -Organizing Chair: SoMeT 2021 Mexico-Cancun<br>
 -Publicity Chair: SoMeT 2020 Japan Kytakyushu<br>
 -Reviewer:<br>
 • Conferences: SoMeT 2017, SoMeT2019, SoMeT 2020, SoMeT 2021<br>
 • Journals: Knowledge Based Systems, Applied Intelligence, Array<br>
 
--Professor in National Autonomous University of Mexico-General Management of Computing and
-Information and Communication Technologies (July 2017-December 2018) Courses taught 1)
-Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint
-and Internet.<br>
--Professor at Autonomous Metropolitan University (September 2017- March 2018) Imparting the
-course of Algorithms and Data Structures.<br>
+-Professor in National Autonomous University of Mexico-General Management of Computing and Information and Communication Technologies (July 2017-December 2018) Courses taught 1) Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint and Internet.<br>
+-Professor at Autonomous Metropolitan University (September 2017- March 2018) Imparting the course of Algorithms and Data Structures.<br>
 -Professor at UNITEC (May 2016-August-2016) Course on System and Signal Analysis.<br>
--Professor at the Autonomous University of Mexico City (August 2014-December 2014). Course on
-Digital Signal Processing.<br>
--Professor at the Technological School of Mexico from August 2013 to July 2014 giving courses in
-Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus,
-Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.<br>
+-Professor at the Autonomous University of Mexico City (August 2014-December 2014). Course on Digital Signal Processing.<br>
+-Professor at the Technological School of Mexico from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.<br>
+
 ## Journal Publications:
--J7. <u>Hernandez-Matamoros</u>, A., Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under
-revision<br>
--J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, “Less complexity oneclass classification approach using construction error of convolutional image transformation network”,Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255,https://doi.org/10.1016/j.ins.2021.01.069<br>
+-J7. <u>Hernandez-Matamoros</u>, A., Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
+-J6. [Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, “Less complexity oneclass classification approach using construction error of convolutional image transformation network”,Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255](https://doi.org/10.1016/j.ins.2021.01.069)<br>
 -J5. Hernandez-Matamoros, A.</b>, Toshitaka H., Fujita, H., Hector Perez-Meana, “Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions", Applied Soft Computing, Volume 96, 2020, 106610, ISSN 1568-4946, https://doi.org/10.1016/j.asoc.2020.106610<br>
 -J4. <b>Hernandez-Matamoros, A., Fujita, H., & Perez-Meana, H. (2020). A novel approach to create synthetic biomedical signals using BiRNN. Information Sciences, doi:10.1016/j.ins.2020.06.019<br>
 -J3. <b>Hernandez-Matamoros, A.</b>, Fujita, H., Nakano-Miyatake, M. et al. "Recognition of ECG Signals Using Wavelet Based on Atomic Functions " Journal Biocybernetics and Biomedical Engineering(2020). https://doi.org/10.1016/j.bbe.2020.02.007<br>
