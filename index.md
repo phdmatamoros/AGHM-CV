@@ -1,7 +1,10 @@
 ## Andres Hernandez-Matamoros
 
-Contact:
+Contact:\\
 Email: phd.matamoros@gmail.com
+Google Scholar: https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en
+LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-h-ab626b78
+
 
 ### Markdown
 
