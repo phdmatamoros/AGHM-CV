@@ -11,8 +11,6 @@ Email: phd.matamoros@gmail.com<br>
 Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection<br>
 
 ```markdown
-Syntax highlighted code block
-
 # Education
 Academic Degrees
 -2014-2018 National Polytechnic Institute, Mexico City.
@@ -31,23 +29,23 @@ OpenCV to detect the face, then a machine learning technique was proposed to rec
 regions. Advisor PhD. Andrea Bonarini.
 #  Other courses
 -Japanese University Studies in Science & Technology (JUSST) (April 2015 -March 2016)
-
 ```
 
 ### Languages:
 
-English: spoken 90 % written 90%.
-Italian: spoken 25 % written 25%.
-Japanese: spoken 10 % written 10%.
-
+English: spoken 90 % written 90%.<br>
+Italian: spoken 25 % written 25%.<br>
+Japanese: spoken 10 % written 10%.<br>
 ### Software:
-
 Windows, Linux, MAC OS, Office, Matlab, Simulink, System Generator, ISE 6.1 Xilinx, Nallatech FUSE,
 AVR Studio, Pony Prog, Code::Blocks , Dev-C++, Visual Studio, OpenCV, Anaconda, Python, Pandas,
 Matplotlib, Scikit-learn, Keras, TensorFlow, Pythorch
 ### Hardware:
-• FPGA Virtex II and Spartan-3, Microcontrollers
-• Spectrum analyzers, Oscilloscope, Function generator.
+FPGA Virtex II and Spartan-3<br>
+Microcontrollers<br>
+Spectrum analyzers<br>
+Oscilloscope<br>
+Function generator.
 ### Hobbies:
 Reading, Swimming, Chess.
 ### Personal & Professional references
