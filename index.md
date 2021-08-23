@@ -18,7 +18,7 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 
 
 # Education
-Academic Degrees<br>
+<p style="text-align:center;">
 -2014 - 2018 National Polytechnic Institute, Mexico City.
 Title of the Thesis “Facial Expression Recognition”
 Ph.D. on Communications and Electronics (Honorific Mention). <br>
@@ -28,6 +28,7 @@ Title of the Thesis: "Optimization and Application of Unsupervised Learning Algo
 Master in Microelectronics Engineering. <br>
 -2006 - 2011 Autonomous Metropolitan University, Mexico City.
 Electronic Engineer
+ </p>
 # Research stays
 -University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial
 expressions in the wild. Advisor PhD. Takayuki Nagai.
