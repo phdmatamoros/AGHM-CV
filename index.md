@@ -14,15 +14,15 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 [A novel approach to create synthetic biomedical signals using BiRNN](https://phdmatamoros.github.io/BiRNN/)
 
 
-markdown
+
 # Education
-Academic Degrees
+Academic Degrees<br>
 -2014-2018 National Polytechnic Institute, Mexico City.
 Title of the Thesis “Facial Expression Recognition”
-Ph.D. on Communications and Electronics (Honorific Mention). 
+Ph.D. on Communications and Electronics (Honorific Mention). <br>
 -2011-2013 National Polytechnic Institute, Mexico City.
 Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms."
-Master in Microelectronics Engineering. 
+Master in Microelectronics Engineering. <br>
 -2006 - 2011 Autonomous Metropolitan University, Mexico City.
 Electronic Engineer
 # Research stays
