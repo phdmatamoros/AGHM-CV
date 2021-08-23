@@ -5,7 +5,7 @@
 [ORCID](https://orcid.org/0000-0002-4896-2909),
 [Research Map](https://researchmap.jp/matamoros?lang=en)<br>
 Email: phd.matamoros@gmail.com<br>
-
+</p>
 ### Areas of interest
 
 Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection<br>
@@ -50,4 +50,3 @@ Function generator.
 Reading, Swimming, Chess.
 ### Personal & Professional references
 Upon Request
-</p>
