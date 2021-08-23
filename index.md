@@ -1,105 +1,607 @@
-## Andres Hernandez-Matamoros
-[Google Scholar]( https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en),
-[LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-h-ab626b78),
-[ORCID](https://orcid.org/0000-0002-4896-2909),
-[Research Map](https://researchmap.jp/matamoros?lang=en)<br>
-Email: phd.matamoros@gmail.com<br>
 
-### Areas of interest
+<!DOCTYPE html>
+<html lang="en-US">
 
-Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection<br>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="profile" href="//gmpg.org/xfn/11">
+    <title>Alex Smith &#8211; Just another WordPress site</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Alex Smith &raquo; Feed" href="https://lmpixels.com/wp/leven-wp/dark/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Alex Smith &raquo; Comments Feed" href="https://lmpixels.com/wp/leven-wp/dark/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/lmpixels.com\/wp\/leven-wp\/dark\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='css-0-css'  href='https://lmpixels.com/wp/leven-wp/dark/wp-content/mmr/fe04f357-1627236043.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='leven-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic' type='text/css' media='all' />
+<script type='text/javascript' src='https://lmpixels.com/wp/leven-wp/dark/wp-content/mmr/01ef1fff-1627236044.min.js' id='js-1-js'></script>
+<link rel="https://api.w.org/" href="https://lmpixels.com/wp/leven-wp/dark/wp-json/" /><link rel="alternate" type="application/json" href="https://lmpixels.com/wp/leven-wp/dark/wp-json/wp/v2/pages/157" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://lmpixels.com/wp/leven-wp/dark/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://lmpixels.com/wp/leven-wp/dark/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8" />
+<link rel="canonical" href="https://lmpixels.com/wp/leven-wp/dark/" />
+<link rel='shortlink' href='https://lmpixels.com/wp/leven-wp/dark/' />
+<link rel="alternate" type="application/json+oembed" href="https://lmpixels.com/wp/leven-wp/dark/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flmpixels.com%2Fwp%2Fleven-wp%2Fdark%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://lmpixels.com/wp/leven-wp/dark/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flmpixels.com%2Fwp%2Fleven-wp%2Fdark%2F&#038;format=xml" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://lmpixels.com/wp/leven-wp/dark/wp-content/uploads/sites/4/2019/12/favicon.ico" sizes="32x32" />
+<link rel="icon" href="https://lmpixels.com/wp/leven-wp/dark/wp-content/uploads/sites/4/2019/12/favicon.ico" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://lmpixels.com/wp/leven-wp/dark/wp-content/uploads/sites/4/2019/12/favicon.ico" />
+<meta name="msapplication-TileImage" content="https://lmpixels.com/wp/leven-wp/dark/wp-content/uploads/sites/4/2019/12/favicon.ico" />
+</head>
 
-### Projects
+<body data-rsssl=1 class="home page-template-default page page-id-157 wp-embed-responsive masthead-fixed full-width grid">
 
-[A novel approach to create synthetic biomedical signals using BiRNN](https://phdmatamoros.github.io/BiRNN/)
+<div class="lm-animated-bg"></div>
+    
+<!-- Loading animation -->
+<div class="preloader">
+  <div class="preloader-animation">
+    <div class="preloader-spinner">
+    </div>
+  </div>
+</div>
+<!-- /Loading animation -->
+
+<!-- Scroll To Top Button -->
+<div class="lmpixels-scroll-to-top"><i class="lnr lnr-chevron-up"></i></div>
+<!-- /Scroll To Top Button -->
+
+<div class="page-scroll">
+    <div id="page_container" class="page-container bg-move-effect theme-style-dark" data-animation="transition-flip-in-right">
+
+        <!-- Header -->
+        <header id="site_header" class="header">
+            <div class="header-content clearfix">
+                
+                                <!-- Text Logo -->
+                <div class="text-logo">
+                    <a href="https://lmpixels.com/wp/leven-wp/dark/">
+                                                    <div class="logo-symbol">A</div>
+                                                                             <div class="logo-text">Alex <span>Smith</span></div>
+                                            </a>
+                </div>
+                <!-- /Text Logo -->
+                
+
+                <!-- Navigation -->
+                <div class="site-nav mobile-menu-hide">
+                    <ul id="menu-classic-menu" class="leven-classic-menu site-main-menu"><li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-157 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-160"><a href="https://lmpixels.com/wp/leven-wp/dark/" aria-current="page" data-hover="1">About Me</a>
+<ul class="sub-menu">
+	<li id="menu-item-318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-157 current_page_item menu-item-318"><a href="https://lmpixels.com/wp/leven-wp/dark/" aria-current="page" data-hover="1">About Me 1</a></li>
+	<li id="menu-item-167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167"><a href="https://lmpixels.com/wp/leven-wp/dark/home-2-about-me/" data-hover="1">About Me 2</a></li>
+	<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://lmpixels.com/wp/leven-wp/dark/about-me-3/" data-hover="1">About Me 3</a></li>
+	<li id="menu-item-332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://lmpixels.com/wp/leven-wp/dark/about-me-4/" data-hover="1">About Me 4</a></li>
+	<li id="menu-item-331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="https://lmpixels.com/wp/leven-wp/dark/about-me-5/" data-hover="1">About Me 5</a></li>
+	<li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="https://lmpixels.com/wp/leven-wp/dark/about-me-6/" data-hover="1">About Me 6</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://lmpixels.com/wp/leven-wp/dark/home/" data-hover="1">Home 1</a></li>
+	<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://lmpixels.com/wp/leven-wp/dark/home-2/" data-hover="1">Home 2</a></li>
+</ul>
+</li>
+<li id="menu-item-174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-174"><a href="https://lmpixels.com/wp/leven-wp/dark/resume/" data-hover="1">Resume</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28"><a href="https://lmpixels.com/wp/leven-wp/dark/portfolio/" data-hover="1">Portfolio</a>
+<ul class="sub-menu">
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://lmpixels.com/wp/leven-wp/dark/portfolio-2-columns/" data-hover="1">Portfolio 2 Columns</a></li>
+	<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://lmpixels.com/wp/leven-wp/dark/portfolio/" data-hover="1">Portfolio 3 Columns</a></li>
+	<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://lmpixels.com/wp/leven-wp/dark/portfolio-4-columns/" data-hover="1">Portfolio 4 Columns</a></li>
+	<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://lmpixels.com/wp/leven-wp/dark/portfolio-5-columns/" data-hover="1">Portfolio 5 Columns</a></li>
+</ul>
+</li>
+<li id="menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-240"><a href="https://lmpixels.com/wp/leven-wp/dark/blog-2-columns/" data-hover="1">Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://lmpixels.com/wp/leven-wp/dark/blog-2-columns/" data-hover="1">Blog 2 Columns</a></li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://lmpixels.com/wp/leven-wp/dark/blog-3-columns/" data-hover="1">Blog 3 Columns</a></li>
+	<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://lmpixels.com/wp/leven-wp/dark/blog/" data-hover="1">Blog List</a></li>
+</ul>
+</li>
+<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://lmpixels.com/wp/leven-wp/dark/contact/" data-hover="1">Contact</a></li>
+<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><a href="https://lmpixels.com/wp/leven-wp/dark/extra/" data-hover="1">Extra</a></li>
+<li id="menu-item-333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-333"><a target="_blank" rel="noopener" href="https://themeforest.net/item/leven-vcard-wordpress-theme/25289671" data-hover="1">Get it Now</a></li>
+</ul>                </div>
+
+                <a class="menu-toggle mobile-visible">
+                    <i class="fa fa-bars"></i>
+                </a>
+            </div>
+        </header>
+        <!-- /Header -->
+<div id="main" class="site-main">
+    <div id="main-content" class="single-page-content">
+        <div id="primary" class="content-area">
+                        
+            <div id="content" class="page-content site-content single-post" role="main">
+                
+<article id="post-157" class="post-157 page type-page status-publish hentry">
+	<div class="entry-content">
+		<div class="fw-page-builder-content"><section class="fw-main-row "  >
+	<div class="fw-container">
+		<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_877489360620b3037fc9b064f63a7372" class="fw-col-inner" data-paddings="15px 0px 15px 0px">
+    	
+<div id="home_content_954218bfd87cb3b458721f4a70135965" class="home-content">
+    <div class="row flex-v-align">
+        <div class="col-sm-12 col-md-5 col-lg-5">
+            <div class="home-photo">
+                <div class="hp-inner"></div>
+            </div>
+        </div>
+
+        <div class="col-sm-12 col-md-7 col-lg-7">
+            <div class="home-text hp-left">
+                                <div class="owl-carousel text-rotation">                                    
+                                            <div class="item">
+                            <h4>Frontend-developer</h4>
+                        </div>
+                                            <div class="item">
+                            <h4>Web Designer</h4>
+                        </div>
+                                    </div>
+                                <h1>Alex Smith</h1>
+                <p>Fusce tempor magna mi, non egestas velit ultricies nec. Aenean convallis, risus non condimentum gravida, odio mauris ullamcorper felis, ut venenatis purus ex eu mi. Quisque imperdiet lacinia urna, a placerat sapien pretium eu.</p>
+                                   <div class="home-buttons">
+                                            <a href="https://themeforest.net/item/leven-vcard-wordpress-theme/25289671" target="_blank" id="" class="btn btn-primary">Download CV</a>
+                                            <a href="https://lmpixels.com/wp/leven-wp/contact/" target="_self" id="" class="btn btn-secondary">Contact</a>
+                                        </div>
+                                </div>
+        </div>
+    </div>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_c2094ed9c996102f2ef70b6125c4fbf5" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+	<div class="fw-divider-space" style="padding-top: 50px;"></div>
+
+<div class="block-title">
+    <h2>What I Do</h2>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_3fa94961ec32117c71b91b80d4565769" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+<div id="info-list-612386a164b69" class="info-list-w-icon">
+	
+			<div class="info-block-w-icon">
+		    <div class="ci-icon">
+		        		        	                        <i class="linecons linecons-pen"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Copywrite</h4>
+		        		        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a tincidunt turpis turpis tempus ex.</p>
+		        		    </div>
+		</div>
+			<div class="info-block-w-icon">
+		    <div class="ci-icon">
+		        		        	                        <i class="linecons linecons-display"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Web Design</h4>
+		        		        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a tincidunt turpis turpis tempus ex.</p>
+		        		    </div>
+		</div>
+	</div>
+	</div>
+</div>
 
 
-```markdown
-# Education
-Academic Degrees
--2014-2018 National Polytechnic Institute, Mexico City.
-Title of the Thesis “Facial Expression Recognition”
-Ph.D. on Communications and Electronics (Honorific Mention). 
--2011-2013 National Polytechnic Institute, Mexico City.
-Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms."
-Master in Microelectronics Engineering. 
--2006 - 2011 Autonomous Metropolitan University, Mexico City.
-Electronic Engineer
-# Research stays
--University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial
-expressions in the wild. Advisor PhD. Takayuki Nagai.
--Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using
-OpenCV to detect the face, then a machine learning technique was proposed to recognize the face
-regions. Advisor PhD. Andrea Bonarini.
-#  Other courses
--Japanese University Studies in Science & Technology (JUSST) (April 2015 -March 2016)
-```
+<div class=" col-xs-12 col-sm-6 ">
+    <div id="col_inner_931ccceee4bc772acc2735fc06fc1c62" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+<div id="info-list-612386a164d82" class="info-list-w-icon">
+	
+			<div class="info-block-w-icon">
+		    <div class="ci-icon">
+		        		        	                        <i class="linecons linecons-shop"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Ecommerce</h4>
+		        		        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a tincidunt turpis turpis tempus ex.</p>
+		        		    </div>
+		</div>
+			<div class="info-block-w-icon">
+		    <div class="ci-icon">
+		        		        	                        <i class="linecons linecons-megaphone"></i>
+		                		    </div>
+		    <div class="ci-text">
+		        <h4>Marketing</h4>
+		        		        <p>Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat. Vivamus blandit, dolor vitae lacinia maximus, risus velit vehicula odio, a tincidunt turpis turpis tempus ex.</p>
+		        		    </div>
+		</div>
+	</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_28268963d54f17fbf0a61a920e475dcf" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+	<div class="fw-divider-space" style="padding-top: 20px;"></div>
+
+<div class="block-title">
+    <h2>Testimonials</h2>
+</div>
 
 
-### Professional experience:
-#### Working experience
-Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at Praxis(Mexico). I was keeping
-in touch with all areas at Praxis to apply A.I. in areas like Big Data, Health, Financial, etc. I had the
-responsibility to create white papers and gave them advice applying A.I. to costumers.
-#### Academic experience
--Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. Ocean Industrial Science, Technology &
-Environmental Relations Lab. Research in Anomaly Detection applying Deep learnig.<br>
--Postdoctoral Stay (01/2019 - 10/2020) Iwate Prefectural University. Fujita’s Laboratory. Research in
-Arrhythmia detection using Deep Learning<br>
--Organizing Chair: SoMeT 2021 Mexico-Cancun<br>
--Publicity Chair: SoMeT 2020 Japan Kytakyushu<br>
--Reviewer:<br>
-• Conferences: SoMeT 2017, SoMeT2019, SoMeT 2020, SoMeT 2021<br>
-• Journals: Knowledge Based Systems, Applied Intelligence, Array<br>
+<div id="testimonials_f297ab5bd43f90472fa9bd5a896eb14a" class="testimonials owl-carousel" data-mobile-items="1" data-tablet-items="2" data-items="2">
 
--Professor in National Autonomous University of Mexico-General Management of Computing and
-Information and Communication Technologies (July 2017-December 2018) Courses taught 1)
-Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint
-and Internet.<br>
--Professor at Autonomous Metropolitan University (September 2017- March 2018) Imparting the
-course of Algorithms and Data Structures.<br>
--Professor at UNITEC (May 2016-August-2016) Course on System and Signal Analysis.<br>
--Professor at the Autonomous University of Mexico City (August 2014-December 2014). Course on
-Digital Signal Processing.<br>
--Professor at the Technological School of Mexico from August 2013 to July 2014 giving courses in
-Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus,
-Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.<br>
-### Journal Publications:
--J7. Hernandez-Matamoros, A., Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under
-revision<br>
--J6. Toshitaka Hayashi, Hamido Fujita, Andres Hernandez-Matamoros, “Less complexity oneclass classification approach using construction error of convolutional image transformation network”,Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255,https://doi.org/10.1016/j.ins.2021.01.069<br>
--J5. Hernandez-Matamoros, A., Toshitaka H., Fujita, H., Hector Perez-Meana, “Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions", Applied Soft Computing, Volume 96, 2020, 106610, ISSN 1568-4946, https://doi.org/10.1016/j.asoc.2020.106610<br>
--J4. Hernandez-Matamoros, A., Fujita, H., & Perez-Meana, H. (2020). A novel approach to create synthetic biomedical signals using BiRNN. Information Sciences, doi:10.1016/j.ins.2020.06.019<br>
--J3. Hernandez-Matamoros, A., Fujita, H., Nakano-Miyatake, M. et al. "Recognition of ECG Signals Using Wavelet Based on Atomic Functions " Journal Biocybernetics and Biomedical Engineering(2020). https://doi.org/10.1016/j.bbe.2020.02.007<br>
--J2. Hernandez-Matamoros, A., Fujita, H., Nakano-Miyatake, M. et al. Scheme fuzzy approach to classify skin tonalities through geographic distribution. J Ambient Intell Human Comput 11, 2859– 2870 (2020). https://doi.org/10.1007/s12652-019-01400-4<br>
--J1. Andres Hernández-Matamoros, Andrea Bonarini, Enrique Escamilla-Hernández, Mariko NakanoMiyatake, Héctor Pérez-Meana, Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach, Knowledge-Based Systems, (2016), ISSN 0950-7051, http://dx.doi.org/10.1016/j.knosys.2016.07.011.<br>
-### Conference Publications:
--C9. Hernandez-Matamoros, A., Fujita, & Perez-Meana, H. Heart Beat Recognition using a novel preprocessing scheme and Neural Networks (pp. 162-172). (Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques). DOI 10.3233/FAIA200562.<br>
--C8. Hernandez-Matamoros, A., Fujita, H., Nakano, M., Perez-Meana, H.,& Hernandez-Escamilla E.(2019).A Scheme to Classify Skin Through Geographic Distribution of Tonalities Using Fuzzy Based Classification Approach (pp. 3-10). (Frontiers in Artificial Intelligence and Applications; Vol. 318). DOI 10.3233/FAIA190034.<br>
--C7. Andres Hernandez-Matamoros, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, “Facial expression recognition in unconstrained environment” (2017) (Frontiers in Artificial Intelligence and Applications; Vol. 297, pages 525-538) ISSN (Print)0922-6389<br>
--C6. Andres Hernandez-Matamoros, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, “Facial Expression Recognition in the wild” Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 35. Oral presentation. 2016<br>
--C5. Andres Hernandez-Matamoros, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, “Facial Expression Recognition in the wild” Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 34. Poster presentation. 2015<br>
--C4. A. Hernandez-Matamoros, Andrea Bonarini, E. Escamilla-Hernandez, M. Nakano-Miyatake and H. Perez-Meana. "A Facial Expression Recognition with Automatic Segmentation of Face Regions”. Intelligent Software Methodologies, Tools and Techniques: 14th International Conference, SoMet 2015, Naples, Italy, September 15-17, 2015. Proceedings. Springer Pags. 529-540. ISBN 978-3-319- 22689-7<br>
--C3. A. Hernandez-Matamoros, E. Escamilla-Hernandez, K. Perez-Daniel, M. Nakano-Miyatake and H. Perez-Meana, "A supervised classifier scheme based on clustering algorithms," Central America and Panama Convention (CONCAPAN XXXIV), 2014 IEEE, Panama City, 2014, pp. 1-5.<br>
--C2. Andrés Gerardo Hernández Matamoros, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, "Learning an object through images obtained from the Internet using Unsupervised Learning ", 9° International Congress Technological Trends in Computation indexed to the journal, "Research in Computer Science", 2013<br> 
--C1. Andrés Gerardo Hernández Matamoros, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, "Object Learning using images from the Internet through Unsupervised Learning" SIMCI 2013 <br>
+			<!-- Testimonial testimonials-612386a1653fe -->
 
-### Languages:
+		<div class="testimonial-item testimonial-testimonials-612386a1653fe">
 
-English: spoken 90 % written 90%.<br>
-Italian: spoken 25 % written 25%.<br>
-Japanese: spoken 10 % written 10%.<br>
-### Software:
-Windows, Linux, MAC OS, Office, Matlab, Simulink, System Generator, ISE 6.1 Xilinx, Nallatech FUSE,
-AVR Studio, Pony Prog, Code::Blocks , Dev-C++, Visual Studio, OpenCV, Anaconda, Python, Pandas,
-Matplotlib, Scikit-learn, Keras, TensorFlow, Pythorch
-### Hardware:
-FPGA Virtex II and Spartan-3<br>
-Microcontrollers<br>
-Spectrum analyzers<br>
-Oscilloscope<br>
-Function generator.
-### Hobbies:
-Reading, Swimming, Chess.
-### Personal & Professional references
-Upon Request
+            <!-- Testimonial Content -->
+            <div class="testimonial-content">
+                <!-- Picture -->
+                <div class="testimonial-picture">
+                    					<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/testimonial-1.jpg" alt="Billy Adams"/>
+                </div>              
+                <!-- /Picture -->
+
+                <!-- Testimonial Text -->
+                <div class="testimonial-text">
+                    					   <p>Donec eu est vel metus consequat volutpat. Nunc aliquet euismod mauris, a feugiat urna ullamcorper non.</p>
+                                    </div>
+                <!-- /Testimonial Text -->
+
+                <!-- Testimonial author information -->
+                <div class="testimonial-author-info">
+                    <h5 class="testimonial-author">Billy Adams</h5>
+                    													<p class="testimonial-firm">Rolling Thunder</p>
+											                </div>
+                <!-- /Testimonial author information -->
+
+                <div class="testimonial-icon">
+                    <i class="fa fa-quote-left"></i>
+                </div>
+
+                 <div class="testimonial-icon-big">
+                    <i class="fa fa-quote-right"></i>
+                </div>
+            </div>
+            <!-- /Testimonial Content -->
+
+        </div>
+		<!-- End of Testimonial testimonials-612386a1653fe -->
+			<!-- Testimonial testimonials-612386a1653fe -->
+
+		<div class="testimonial-item testimonial-testimonials-612386a1653fe">
+
+            <!-- Testimonial Content -->
+            <div class="testimonial-content">
+                <!-- Picture -->
+                <div class="testimonial-picture">
+                    					<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/testimonial-2.jpg" alt="Gary Johnson"/>
+                </div>              
+                <!-- /Picture -->
+
+                <!-- Testimonial Text -->
+                <div class="testimonial-text">
+                    					   <p>Nam tempor commodo mi id sodales. Aenean sit amet nibh nec sapien consequat porta a sit amet diam.</p>
+                                    </div>
+                <!-- /Testimonial Text -->
+
+                <!-- Testimonial author information -->
+                <div class="testimonial-author-info">
+                    <h5 class="testimonial-author">Gary Johnson</h5>
+                    													<p class="testimonial-firm">Locost Accessories</p>
+											                </div>
+                <!-- /Testimonial author information -->
+
+                <div class="testimonial-icon">
+                    <i class="fa fa-quote-left"></i>
+                </div>
+
+                 <div class="testimonial-icon-big">
+                    <i class="fa fa-quote-right"></i>
+                </div>
+            </div>
+            <!-- /Testimonial Content -->
+
+        </div>
+		<!-- End of Testimonial testimonials-612386a1653fe -->
+			<!-- Testimonial testimonials-612386a1653fe -->
+
+		<div class="testimonial-item testimonial-testimonials-612386a1653fe">
+
+            <!-- Testimonial Content -->
+            <div class="testimonial-content">
+                <!-- Picture -->
+                <div class="testimonial-picture">
+                    					<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/testimonial-3.jpg" alt="Daniel Pringle"/>
+                </div>              
+                <!-- /Picture -->
+
+                <!-- Testimonial Text -->
+                <div class="testimonial-text">
+                    					   <p>Etiam pretium ipsum quis justo dictum accumsan. Phasellus egestas odio a velit scelerisque.</p>
+                                    </div>
+                <!-- /Testimonial Text -->
+
+                <!-- Testimonial author information -->
+                <div class="testimonial-author-info">
+                    <h5 class="testimonial-author">Daniel Pringle</h5>
+                    													<p class="testimonial-firm">Sagebrush</p>
+											                </div>
+                <!-- /Testimonial author information -->
+
+                <div class="testimonial-icon">
+                    <i class="fa fa-quote-left"></i>
+                </div>
+
+                 <div class="testimonial-icon-big">
+                    <i class="fa fa-quote-right"></i>
+                </div>
+            </div>
+            <!-- /Testimonial Content -->
+
+        </div>
+		<!-- End of Testimonial testimonials-612386a1653fe -->
+	</div>
+
+	<div class="fw-divider-space" style="padding-top: 40px;"></div>
+
+<div class="block-title">
+    <h2>Clients</h2>
+</div>
+
+<div id="clients_ea5ef3c3560c2e0e923f56acc53b32d4" class="clients owl-carousel" data-mobile-items="1" data-tablet-items="3" data-items="6">
+
+			<div class="client-block">
+						<a href="#" target="_blank" title="Golden Grid">
+			
+								<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/goldengrid.png" alt="Golden Grid">
+
+						</a>
+					</div>
+			<div class="client-block">
+						<a href="#" target="_blank" title="Sweety">
+			
+								<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/sweety.png" alt="Sweety">
+
+						</a>
+					</div>
+			<div class="client-block">
+						<a href="#" target="_blank" title="Magic Furnitures">
+			
+								<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/Magic-Furnitures-1.png" alt="Magic Furnitures">
+
+						</a>
+					</div>
+			<div class="client-block">
+						<a href="#" target="_blank" title="LifeGuard">
+			
+								<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/lifeguard.png" alt="LifeGuard">
+
+						</a>
+					</div>
+			<div class="client-block">
+						<a href="#" target="_blank" title="LESS">
+			
+								<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/client-7.png" alt="LESS">
+
+						</a>
+					</div>
+			<div class="client-block">
+						<a href="#" target="_blank" title="Design Lovers">
+			
+								<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/designlovers.png" alt="Design Lovers">
+
+						</a>
+					</div>
+			<div class="client-block">
+						<a href="#" target="_blank" title="WordPress">
+			
+								<img src="//lmpixels.com/wp/leven-wp/wp-content/uploads/2019/12/client-2.png" alt="WordPress">
+
+						</a>
+					</div>
+	
+</div>
+
+	<div class="fw-divider-space" style="padding-top: 40px;"></div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-12 ">
+    <div id="col_inner_1a922c7897708c3a2eded034e6e7a555" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+<div class="block-title">
+    <h2>Fun Facts</h2>
+</div>
+	</div>
+</div>
+</div>
+
+<div class="row">
+	
+
+<div class=" col-xs-12 col-sm-3 ">
+    <div id="col_inner_831ae7ae8f7189a8a47ec09caf7501f4" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+<div class="lm-info-block gray-default">
+                        <i class="linecons linecons-heart"></i>
+                <h4>Happy Clients</h4>
+    <span class="lm-info-block-value">578</span>
+    <span class="lm-info-block-text"></span>
+</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-3 ">
+    <div id="col_inner_7f8682d39c5ba46b284a08d3db46c5f6" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+<div class="lm-info-block gray-default">
+                        <i class="linecons linecons-clock"></i>
+                <h4>Working Hours</h4>
+    <span class="lm-info-block-value">4,780</span>
+    <span class="lm-info-block-text"></span>
+</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-3 ">
+    <div id="col_inner_6d4fcdd7dc42e01531a70050562e10e6" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+<div class="lm-info-block gray-default">
+                        <i class="linecons linecons-star"></i>
+                <h4>Awards Won</h4>
+    <span class="lm-info-block-value">15</span>
+    <span class="lm-info-block-text"></span>
+</div>
+	</div>
+</div>
+
+
+<div class=" col-xs-12 col-sm-3 ">
+    <div id="col_inner_a719203952a1d6b1e4e8878645682d3c" class="fw-col-inner" data-paddings="0px 0px 0px 0px">
+    	
+<div class="lm-info-block gray-default">
+                        <i class="linecons linecons-cup"></i>
+                <h4>Coffee Consumed</h4>
+    <span class="lm-info-block-value">1,286</span>
+    <span class="lm-info-block-text"></span>
+</div>
+	</div>
+</div>
+</div>
+
+	</div>
+</section>
+</div>
+	</div><!-- .entry-content -->
+</article><!-- #post-## -->
+            </div><!-- #content -->
+        </div><!-- #primary -->
+    </div><!-- #main-content -->
+</div>
+  
+                        <footer class="site-footer clearfix">
+                                <div class="footer-social">
+                    <ul class="footer-social-links">
+                                            <li>
+                            <a href="#" target="_blank">Twitter</a>
+                        </li>
+                                            <li>
+                            <a href="#" target="_blank">Facebook</a>
+                        </li>
+                                            <li>
+                            <a href="#" target="_blank">Instagram</a>
+                        </li>
+                                        </ul>
+                </div>
+                
+                                <div class="footer-copyrights">
+                    <p>© 2021 All rights reserved. LMPixels.</p>
+                </div>
+                            </footer>
+                    </div>
+        
+	<div id="blog-sidebar" class="blog-sidebar hidden-sidebar">
+		<div class="sidebar-toggle">
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+		<div class="blog-sidebar-content clearfix">
+			<div class="sidebar-item"><form role="search" method="get" class="search-form" action="https://lmpixels.com/wp/leven-wp/dark/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></div>
+		<div class="sidebar-item">
+		<div class="sidebar-title"><h4>Recent Posts</h4></div>
+		<ul>
+											<li>
+					<a href="https://lmpixels.com/wp/leven-wp/dark/2019/12/04/how-to-make-a-wordpress-plugin-extensible/">How to Make a WordPress Plugin Extensible</a>
+									</li>
+											<li>
+					<a href="https://lmpixels.com/wp/leven-wp/dark/2019/12/04/6-easy-steps-to-better-icon-design/">6 Easy Steps to Better Icon Design</a>
+									</li>
+											<li>
+					<a href="https://lmpixels.com/wp/leven-wp/dark/2019/12/04/creative-and-innovative-navigation-designs/">Creative and Innovative Navigation Designs</a>
+									</li>
+											<li>
+					<a href="https://lmpixels.com/wp/leven-wp/dark/2019/12/04/why-i-switched-to-sketch-for-ui-design/">Why I Switched to Sketch For UI Design</a>
+									</li>
+											<li>
+					<a href="https://lmpixels.com/wp/leven-wp/dark/2019/12/04/an-overview-of-e-commerce-platforms/">An Overview of E-Commerce Platforms</a>
+									</li>
+					</ul>
+
+		</div><div class="sidebar-item"><div class="sidebar-title"><h4>Recent Comments</h4></div><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">This is the comment</span> on <a href="https://lmpixels.com/wp/leven-wp/dark/2019/12/04/best-practices-for-animated-progress-indicators/#comment-3">Best Practices for Animated Progress Indicators</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow ugc' class='url'>A WordPress Commenter</a></span> on <a href="https://lmpixels.com/wp/leven-wp/dark/2019/11/28/hello-world/#comment-1">Hello world!</a></li></ul></div><div class="sidebar-item"><div class="sidebar-title"><h4>Archives</h4></div>
+			<ul>
+					<li><a href='https://lmpixels.com/wp/leven-wp/dark/2019/12/'>December 2019</a></li>
+	<li><a href='https://lmpixels.com/wp/leven-wp/dark/2019/11/'>November 2019</a></li>
+			</ul>
+
+			</div><div class="sidebar-item"><div class="sidebar-title"><h4>Categories</h4></div>
+			<ul>
+					<li class="cat-item cat-item-22"><a href="https://lmpixels.com/wp/leven-wp/dark/category/design/">Design</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://lmpixels.com/wp/leven-wp/dark/category/e-commerce/">E-Commerce</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://lmpixels.com/wp/leven-wp/dark/category/ui/">UI</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://lmpixels.com/wp/leven-wp/dark/category/uncategorized/">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="https://lmpixels.com/wp/leven-wp/dark/category/wordpress/">WordPress</a>
+</li>
+			</ul>
+
+			</div><div class="sidebar-item"><div class="sidebar-title"><h4>Meta</h4></div>
+		<ul>
+						<li><a href="https://lmpixels.com/wp/leven-wp/dark/wp-login.php">Log in</a></li>
+			<li><a href="https://lmpixels.com/wp/leven-wp/dark/feed/">Entries feed</a></li>
+			<li><a href="https://lmpixels.com/wp/leven-wp/dark/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div>		</div>
+	</div>
+    </div>
+	<script type='text/javascript' src='https://lmpixels.com/wp/leven-wp/dark/wp-content/mmr/ce02913e-1619086408.min.js' id='js-2-js'></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"68340109dbc60b8b","version":"2021.8.1","r":1,"token":"94b99c0576dc45bf9d669fb5e9256829","si":10}'></script>
+</body>
+</html>
