@@ -33,7 +33,7 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 -Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor PhD. Andrea Bonarini.
 <br>
 #  Other courses
--Japanese University Studies in Science & Technology (JUSST) (April 2015 - March 2016)
+-Japanese University Studies in Science & Technology ([JUSST](jusst.pdf)) (April 2015 - March 2016)
 
 
 
