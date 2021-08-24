@@ -29,8 +29,8 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
  <br>
 -2006 - 2011 [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html), Mexico City. [Electronic Engineer](http://die.izt.uam.mx/index.php/ingenieria-electronica/)
 # Research stays
--[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [PhD. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/)<br>
--[Polytechnic of Milan](https://www.polimi.it/en/), Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [PhD. Andrea Bonarini](https://bonarini.faculty.polimi.it/)
+-[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [Ph.D. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/)<br>
+-[Polytechnic of Milan](https://www.polimi.it/en/), Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [Ph.D. Andrea Bonarini](https://bonarini.faculty.polimi.it/)
 <br>
 #  Other courses
 -Japanese University Studies in Science & Technology ([JUSST](http://www.fedu.uec.ac.jp/en/future_students/jusst/)) (April 2015 - March 2016)
@@ -51,11 +51,11 @@ Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-t
 • Conferences: [SoMeT 2017](http://p-www.iwate-pu.ac.jp/~jsasaki/SOMET2017/SOMET2017.pdf), [SoMeT2019](https://ieeecomputer.my/somet2019/), [SoMeT 2020](https://jsasaki3.wixsite.com/somet2020), [SoMeT 2021](https://atenea.esimecu.ipn.mx/)<br>
 • Journals: [Knowledge Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.springer.com/journal/10489), [Array](https://www.journals.elsevier.com/array)<br>
 
-<br>-Professor in [National Autonomous University of Mexico-General Management of Computing and Information and Communication Technologies](https://docencia.tic.unam.mx/cursos.php) (July 2017-December 2018) Courses taught 1) Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint and Internet.<br>
-<br>-Professor at [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html) (September 2017- March 2018) Imparting the course of Algorithms and Data Structures.<br>
-<br>-Professor at [UNITEC](https://www.unitec.mx/) (May 2016-August-2016) Course on System and Signal Analysis.<br>
+<br>-Professor in [National Autonomous University of Mexico-General Management of Computing and Information and Communication Technologies](https://docencia.tic.unam.mx/cursos.php) (July 2017-December 2018) Imparting 1) Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint and Internet.<br>
+<br>-Professor at [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html) (September 2017- March 2018) Imparting Algorithms and Data Structures.<br>
+<br>-Professor at [UNITEC](https://www.unitec.mx/) (May 2016-August-2016) Imparting System and Signal Analysis.<br>
 <br>-Professor at the [Autonomous University of Mexico City](https://www.uacm.edu.mx/) (August 2014-December 2014). Course on Digital Signal Processing.<br>
-<br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.
+<br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3, and Mathematics 4.
 
 ## Journal Publications:
 -J7. <u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
@@ -96,6 +96,6 @@ Microcontrollers<br>
 Spectrum analyzers<br>
 Oscilloscope<br>
 Function generator.<br>
-## Personal & Professional references
+## Personal & Professional References
 Upon Request
 
