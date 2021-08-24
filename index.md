@@ -93,11 +93,7 @@ Windows, Linux, MAC OS, Office, Matlab, Simulink, System Generator, ISE 6.1 Xili
 AVR Studio, Pony Prog, Code::Blocks , Dev-C++, Visual Studio, OpenCV, Anaconda, Python, Pandas,
 Matplotlib, Scikit-learn, Keras, TensorFlow, Pytorch<br>
 ## Hardware
-FPGA Virtex II and Spartan-3<br>
-Microcontrollers<br>
-Spectrum analyzers<br>
-Oscilloscope<br>
-Function generator.<br>
+FPGA Virtex II and Spartan-3, Microcontrollers, Spectrum analyzers, Oscilloscope, Function generator<br>
 ## Personal & Professional References
 Upon Request
 
