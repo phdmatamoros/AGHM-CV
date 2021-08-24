@@ -59,11 +59,17 @@ Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-t
 
 ## Journal Publications:
 -J7. <u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
-<br>-J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [Less complexity oneclass classification approach using construction error of convolutional image transformation network](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255<br>
-<br>-J5.<u>Hernandez-Matamoros, A.</u>, Toshitaka H., Fujita, H., Hector Perez-Meana, [Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions](https://doi.org/10.1016/j.asoc.2020.106610), Applied Soft Computing, Volume 96, 2020, 106610, ISSN 1568-4946, <br>
-<br>-J4.<u>Hernandez-Matamoros, A.</u>, Fujita, H., & Perez-Meana, H. (2020). [A novel approach to create synthetic biomedical signals using BiRNN](https://www.sciencedirect.com/science/article/pii/S0020025520306071), Information Sciences<br>
-<br>-J3.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. [Recognition of ECG Signals Using Wavelet Based on Atomic Functions](https://doi.org/10.1016/j.bbe.2020.02.007),Journal Biocybernetics and Biomedical Engineering(2020). <br>
-<br>-J2.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. [Scheme fuzzy approach to classify skin tonalities through geographic distribution](https://doi.org/10.1007/s12652-019-01400-4). J Ambient Intell Human Comput 11, 2859– 2870 (2019)<br>
+
+<br>-J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [Less complexity oneclass classification approach using construction error of convolutional image transformation network](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255<br>
+
+<br>-J5.<u>Hernandez-Matamoros, A.</u>, Toshitaka H., Fujita, H., Hector Perez-Meana, [Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions](https://doi.org/10.1016/j.asoc.2020.106610), Applied Soft Computing, Volume 96, 11-2020, 106610, ISSN 1568-4946<br>
+
+<br>-J4.<u>Hernandez-Matamoros, A.</u>, Fujita, H., & Perez-Meana, H. (2020). [A novel approach to create synthetic biomedical signals using BiRNN](https://www.sciencedirect.com/science/article/pii/S0020025520306071), Information Sciences, Volume 541, Pages 218-241, ISSN 0020-0255, (12-2020)<br>
+
+<br>-J3.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. [Recognition of ECG Signals Using Wavelet Based on Atomic Functions](https://doi.org/10.1016/j.bbe.2020.02.007)," Journal Biocybernetics and Biomedical Engineering, Volume 40, Issue 2, Pages 803-814, (04-2020)<br>
+
+<br>-J2.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. [Scheme fuzzy approach to classify skin tonalities through geographic distribution](https://doi.org/10.1007/s12652-019-01400-4), J. Ambient Intell Human Comput, 11, 2859–2870 (07-2019)<br>
+
 <br>-J1.<u>Andres Hernández-Matamoros</u>, Andrea Bonarini, Enrique Escamilla-Hernández, Mariko NakanoMiyatake, Héctor Pérez-Meana, [Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach](http://dx.doi.org/10.1016/j.knosys.2016.07.011), Knowledge-Based Systems, (2016), ISSN 0950-7051.<br>
 ## Conference Publications:
 -C9. <u>Hernandez-Matamoros, A.</u>, Fujita, & Perez-Meana, H. [Heart Beat Recognition using a novel preprocessing scheme and Neural Networks](https://ebooks.iospress.nl/volumearticle/55482) (pp. 162-172). (Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques). DOI 10.3233/FAIA200562.<br>
