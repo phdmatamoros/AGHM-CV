@@ -39,11 +39,11 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 
 ## Professional experience
 ### Working experience
-Senior Consultant in Artificial Intelligent (05/2018 - 12/2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply A.I..
+Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply A.I..
 ### Academic experience
-Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/). [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
+Postdoctoral Stay (November 2020 – March 2022) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/). [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
 <br>
--Postdoctoral Stay (01/2019 - 10/2020) [Iwate Prefectural University](https://www.iwate-pu.ac.jp/en/). [Fujita’s Laboratory](http://www.fujita.soft.iwate-pu.ac.jp/). Research in Arrhythmia detection using Deep Learning.<br>
+-Postdoctoral Stay (January 2019 - October 2020) [Iwate Prefectural University](https://www.iwate-pu.ac.jp/en/). [Fujita’s Laboratory](http://www.fujita.soft.iwate-pu.ac.jp/). Research in Arrhythmia detection using Deep Learning.<br>
 <br>
 -Organizing Chair: [SoMeT 2021 Mexico-Cancun](https://atenea.esimecu.ipn.mx/)<br>
 <br>
@@ -56,8 +56,8 @@ Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-t
 <br>-Professor in [National Autonomous University of Mexico-General Management of Computing and Information and Communication Technologies](https://docencia.tic.unam.mx/cursos.php) (July 2017-December 2018) Imparting 1) Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint and Internet.<br>
 <br>-Professor at [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html) (September 2017- March 2018) Imparting Algorithms and Data Structures.<br>
 <br>-Professor at [UNITEC](https://www.unitec.mx/) (May 2016-August-2016) Imparting System and Signal Analysis.<br>
-<br>-Professor at the [Autonomous University of Mexico City](https://www.uacm.edu.mx/) (August 2014-December 2014). Course on Digital Signal Processing.<br>
-<br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3, and Mathematics 4.
+<br>-Professor at the [Autonomous University of Mexico City](https://www.uacm.edu.mx/) (August 2014 - December 2014). Course on Digital Signal Processing.<br>
+<br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) (August 2013 - July 2014). Giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3, and Mathematics 4.
 
 ## Journal Publications
 -J7.<u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision.<br> 
