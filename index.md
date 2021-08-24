@@ -1,6 +1,6 @@
 # Andres Hernandez-Matamoros
 
-I received the degree of Electronics Engineer from the Metropolitan Autonomous University (Mexico) in 2011. Later in 2013 and 2018, I received a Master's degree in Microelectronics and a Ph.D. in Communications and Electronics. Ph.D. graduated with honors from Polytechnic National Institute (Mexico). I carried out a research stay at the Politecnico di Milano between 2012 and 2013. From 2015 to 2016, I carried out a research stay (JUSST program) at the University of Electro-Communications in Tokyo, Japan. From 2019-2020, I carried a postdoctoral stay at Iwate Prefectural University in Intelligent Software Systems (Fujita Laboratory). Nowadays, I am a project researcher at The University of Tokyo developing anomaly detection using deep learning approaches.<br>
+I received the degree of Electronics Engineer from the Metropolitan Autonomous University (Mexico) in 2011. Later in 2013 and 2018, I received a Master's degree in Microelectronics and a Ph.D. in Communications and Electronics. Ph.D. graduated with honors from Polytechnic National Institute (Mexico). I carried out a research stay at the Politecnico di Milano between 2012 and 2013. From 2015 to 2016, I carried out a research stay (JUSST program) at the University of Electro-Communications in Tokyo, Japan. From 2019-2020, I carried a postdoctoral stay at Iwate Prefectural University in Intelligent Software Systems (Fujita Laboratory). Nowadays, I am a project researcher at The University of Tokyo developing anomaly detection using deep learning approaches.
 
 ## You can find me on
 [Google Scholar]( https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en),
@@ -9,11 +9,11 @@ I received the degree of Electronics Engineer from the Metropolitan Autonomous U
 [Research Gate](https://www.researchgate.net/profile/Andres-Hernandez-Matamoros),
 [Research Map](https://researchmap.jp/matamoros?lang=en)<br>
 
-Email: phd.matamoros@gmail.com(phd.matamoros@gmail.com)<br>
+Email: phd.matamoros@gmail.com(phd.matamoros@gmail.com)<
 
 ## Areas of interest
 
-Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection<br>
+Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection
 
 ## Projects
 [Anomaly Detection](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/members)<br>
@@ -57,7 +57,7 @@ Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. [Ocean Industrial Scien
 <br>-Professor at [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html) (September 2017- March 2018) Imparting the course of Algorithms and Data Structures.<br>
 <br>-Professor at [UNITEC](https://www.unitec.mx/) (May 2016-August-2016) Course on System and Signal Analysis.<br>
 <br>-Professor at the [Autonomous University of Mexico City](https://www.uacm.edu.mx/) (August 2014-December 2014). Course on Digital Signal Processing.<br>
-<br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.<br>
+<br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.
 
 ## Journal Publications:
 -J7. <u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
@@ -66,7 +66,7 @@ Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. [Ocean Industrial Scien
 <br>-J4.<u>Hernandez-Matamoros, A.</u>, Fujita, H., & Perez-Meana, H. (2020). [A novel approach to create synthetic biomedical signals using BiRNN](https://www.sciencedirect.com/science/article/pii/S0020025520306071), Information Sciences<br>
 <br>-J3.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. [Recognition of ECG Signals Using Wavelet Based on Atomic Functions](https://doi.org/10.1016/j.bbe.2020.02.007),Journal Biocybernetics and Biomedical Engineering(2020). <br>
 <br>-J2.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. [Scheme fuzzy approach to classify skin tonalities through geographic distribution](https://doi.org/10.1007/s12652-019-01400-4). J Ambient Intell Human Comput 11, 2859– 2870 (2020)<br>
-<br>-J1.<u>Andres Hernández-Matamoros</u>, Andrea Bonarini, Enrique Escamilla-Hernández, Mariko NakanoMiyatake, Héctor Pérez-Meana, [Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach](http://dx.doi.org/10.1016/j.knosys.2016.07.011), Knowledge-Based Systems, (2016), ISSN 0950-7051,.<br>
+<br>-J1.<u>Andres Hernández-Matamoros</u>, Andrea Bonarini, Enrique Escamilla-Hernández, Mariko NakanoMiyatake, Héctor Pérez-Meana, [Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach](http://dx.doi.org/10.1016/j.knosys.2016.07.011), Knowledge-Based Systems, (2016), ISSN 0950-7051.
 <br>
 ## Conference Publications:
 -C9. <u>Hernandez-Matamoros, A.</u>, Fujita, & Perez-Meana, H. [Heart Beat Recognition using a novel preprocessing scheme and Neural Networks](https://ebooks.iospress.nl/volumearticle/55482) (pp. 162-172). (Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques). DOI 10.3233/FAIA200562.<br>
