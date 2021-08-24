@@ -29,17 +29,17 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 <br>
 -2011 - 2013 [National Polytechnic Institute](https://www.ipn.mx/), Mexico City.Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms." [Master in Microelectronics Engineering](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=20&Itemid=142). <br>
  <br>
--2006 - 2011 [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html), Mexico City. [Electronic Engineer](http://die.izt.uam.mx/index.php/ingenieria-electronica/)
+-2006 - 2011 [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html), Mexico City. [Electronic Engineer](http://die.izt.uam.mx/index.php/ingenieria-electronica/).
 # Research stays
 -[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [Ph.D. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/).<br>
 -[Polytechnic of Milan](https://www.polimi.it/en/), Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [Ph.D. Andrea Bonarini](https://bonarini.faculty.polimi.it/).
 <br>
 #  Other courses
--Japanese University Studies in Science & Technology ([JUSST](http://www.fedu.uec.ac.jp/en/future_students/jusst/)) (April 2015 - March 2016)
+-Japanese University Studies in Science & Technology ([JUSST](http://www.fedu.uec.ac.jp/en/future_students/jusst/)) (April 2015 - March 2016).
 
 ## Professional experience
 ### Working experience
-Senior Consultant in Artificial Intelligent (05/2018 - 12/2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply A.I.
+Senior Consultant in Artificial Intelligent (05/2018 - 12/2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply A.I..
 ### Academic experience
 Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/). [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
 <br>
@@ -94,20 +94,20 @@ Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-t
 <br>-C1.<u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Object Learning using images from the Internet through Unsupervised Learning](pachuca.pdf),SIMCI 2013.<br>
 
 ## Languages
-English: spoken 90 % written 90%.<br>
-Italian: spoken 25 % written 25%.<br>
-Japanese: spoken 10 % written 10%.<br>
+English:  spoken 90 % written 90%<br>
+Italian:  spoken 25 % written 25%<br>
+Japanese: spoken 10 % written 10%<br>
 
 ## Skills
 
-Statistics, Programming knowledge, Data Manipulation and Analysis, Machine Learning, Deep Learning, Model Deployment, Communication Skills, Structured Thinking, Curiosity
+Statistics, Programming knowledge, Data Manipulation and Analysis, Machine Learning, Deep Learning, Model Deployment, Communication Skills, Structured Thinking, Curiosity.
 
 ## Software
 Windows, Linux, MAC OS, Office, Matlab, Simulink, System Generator, ISE 6.1 Xilinx, Nallatech FUSE,
 AVR Studio, Pony Prog, Code::Blocks , Dev-C++, Visual Studio, OpenCV, Anaconda, Python, Pandas,
-Matplotlib, Scikit-learn, Keras, TensorFlow, Pytorch<br>
+Matplotlib, Scikit-learn, Keras, TensorFlow, Pytorch.
 ## Hardware
-FPGA Virtex II and Spartan-3, Microcontrollers, Spectrum analyzers, Oscilloscope, Function generator<br>
+FPGA Virtex II and Spartan-3, Microcontrollers, Spectrum analyzers, Oscilloscope, Function generator.
 ## Personal & Professional References
 Upon Request
 
