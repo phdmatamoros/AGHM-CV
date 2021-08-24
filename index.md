@@ -39,7 +39,7 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 
 ## Professional experience
 ### Working experience
-Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at Praxis(Mexico). I kept in touch with all areas at Praxis to apply A.I. in areas like Big Data, Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply A.I.
+Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I kept in touch with all areas at Praxis to apply A.I. in areas like Big Data, Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply A.I.
 ### Academic experience
 Postdoctoral Stay (November 2020 – March 2022) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/). [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
 <br>
