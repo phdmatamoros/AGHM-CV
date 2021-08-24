@@ -100,7 +100,7 @@ Japanese: spoken 10 % written 10%.<br>
 
 ## Skills
 
-Statistics, Programming knowledge, Data Manipulation and Analysis, Machine Learning, Deep Learning, Model Deployment, Communication Skills, Structured Thinking,Curiosity
+Statistics, Programming knowledge, Data Manipulation and Analysis, Machine Learning, Deep Learning, Model Deployment, Communication Skills, Structured Thinking, Curiosity
 
 ## Software
 Windows, Linux, MAC OS, Office, Matlab, Simulink, System Generator, ISE 6.1 Xilinx, Nallatech FUSE,
