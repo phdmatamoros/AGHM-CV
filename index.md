@@ -38,7 +38,6 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 ## Professional experience:
 ### Working experience
 Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and gave them advice applying A.I. to costumers.
-<br>
 ### Academic experience
 Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/). [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
 <br>
@@ -60,7 +59,7 @@ Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-t
 
 ## Journal Publications:
 -J7. <u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
-<br>-J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [Less complexity oneclass classification approach using construction error of convolutional image transformation network](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255]<br>
+<br>-J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [Less complexity oneclass classification approach using construction error of convolutional image transformation network](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,2021,Pages 217-234, ISSN 0020-0255<br>
 <br>-J5.<u>Hernandez-Matamoros, A.</u>, Toshitaka H., Fujita, H., Hector Perez-Meana, [Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions](https://doi.org/10.1016/j.asoc.2020.106610), Applied Soft Computing, Volume 96, 2020, 106610, ISSN 1568-4946, <br>
 <br>-J4.<u>Hernandez-Matamoros, A.</u>, Fujita, H., & Perez-Meana, H. (2020). [A novel approach to create synthetic biomedical signals using BiRNN](https://www.sciencedirect.com/science/article/pii/S0020025520306071), Information Sciences<br>
 <br>-J3.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. [Recognition of ECG Signals Using Wavelet Based on Atomic Functions](https://doi.org/10.1016/j.bbe.2020.02.007),Journal Biocybernetics and Biomedical Engineering(2020). <br>
@@ -84,7 +83,7 @@ Japanese: spoken 10 % written 10%.<br>
 ## Software:
 Windows, Linux, MAC OS, Office, Matlab, Simulink, System Generator, ISE 6.1 Xilinx, Nallatech FUSE,
 AVR Studio, Pony Prog, Code::Blocks , Dev-C++, Visual Studio, OpenCV, Anaconda, Python, Pandas,
-Matplotlib, Scikit-learn, Keras, TensorFlow, Pythorch<br>
+Matplotlib, Scikit-learn, Keras, TensorFlow, Pytorch<br>
 ## Hardware:
 FPGA Virtex II and Spartan-3<br>
 Microcontrollers<br>
