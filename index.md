@@ -9,7 +9,9 @@ I received the degree of Electronics Engineer from the Metropolitan Autonomous U
 [Research Gate](https://www.researchgate.net/profile/Andres-Hernandez-Matamoros),
 [Research Map](https://researchmap.jp/matamoros?lang=en)<br>
 
-Email: [phd.matamoros@gmail.com](<a href="phd.matamoros@gmail.com"></a>)
+Email: phd.matamoros@gmail.com<br>
+
+Email: <a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>
 
 ## Areas of interest
 
