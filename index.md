@@ -31,19 +31,19 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
  <br>
 -2006 - 2011 [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html), Mexico City. [Electronic Engineer](http://die.izt.uam.mx/index.php/ingenieria-electronica/)
 # Research stays
--[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [Ph.D. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/)<br>
--[Polytechnic of Milan](https://www.polimi.it/en/), Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [Ph.D. Andrea Bonarini](https://bonarini.faculty.polimi.it/)
+-[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [Ph.D. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/).<br>
+-[Polytechnic of Milan](https://www.polimi.it/en/), Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [Ph.D. Andrea Bonarini](https://bonarini.faculty.polimi.it/).
 <br>
 #  Other courses
 -Japanese University Studies in Science & Technology ([JUSST](http://www.fedu.uec.ac.jp/en/future_students/jusst/)) (April 2015 - March 2016)
 
 ## Professional experience
 ### Working experience
-Senior Consultant in Artificial Intelligent (05/2018 - 12/2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply  A.I.
+Senior Consultant in Artificial Intelligent (05/2018 - 12/2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply A.I.
 ### Academic experience
 Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/). [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
 <br>
--Postdoctoral Stay (01/2019 - 10/2020) [Iwate Prefectural University](https://www.iwate-pu.ac.jp/en/). [Fujita’s Laboratory](http://www.fujita.soft.iwate-pu.ac.jp/). Research in Arrhythmia detection using Deep Learning<br>
+-Postdoctoral Stay (01/2019 - 10/2020) [Iwate Prefectural University](https://www.iwate-pu.ac.jp/en/). [Fujita’s Laboratory](http://www.fujita.soft.iwate-pu.ac.jp/). Research in Arrhythmia detection using Deep Learning.<br>
 <br>
 -Organizing Chair: [SoMeT 2021 Mexico-Cancun](https://atenea.esimecu.ipn.mx/)<br>
 <br>
@@ -79,19 +79,19 @@ Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-t
 
 <br>-C8.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano, M., Perez-Meana, H.,& Hernandez-Escamilla E.(2019).[A Scheme to Classify Skin Through Geographic Distribution of Tonalities Using Fuzzy Based Classification Approach](https://ebooks.iospress.nl/volumearticle/52672) (pp. 3-10). (Frontiers in Artificial Intelligence and Applications; Vol. 318). DOI 10.3233/FAIA190034.<br>
 
-<br>-C7.<u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial expression recognition in unconstrained environment](https://ebooks.iospress.nl/volumearticle/47594) (2017) (Frontiers in Artificial Intelligence and Applications; Vol. 297, pages 525-538) ISSN (Print)0922-6389<br>
+<br>-C7.<u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial expression recognition in unconstrained environment](https://ebooks.iospress.nl/volumearticle/47594) (2017) (Frontiers in Artificial Intelligence and Applications; Vol. 297, pages 525-538) ISSN (Print)0922-6389.<br>
 
-<br>-C6.<u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial Expression Recognition in the wild](oralpresentation.pdf) Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 35. Oral presentation. 2016<br>
+<br>-C6.<u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial Expression Recognition in the wild](oralpresentation.pdf) Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 35. Oral presentation. 2016.<br>
 
-<br>-C5.<u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial Expression Recognition in the wild](poster.pdf) Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 34. Poster presentation. 2015<br>
+<br>-C5.<u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial Expression Recognition in the wild](poster.pdf) Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 34. Poster presentation. 2015.<br>
 
-<br>-C4.<u>A. Hernandez-Matamoros</u>, Andrea Bonarini, E. Escamilla-Hernandez, M. Nakano-Miyatake and H. Perez-Meana. [A Facial Expression Recognition with Automatic Segmentation of Face Regions](https://link.springer.com/chapter/10.1007%2F978-3-319-22689-7_41). Intelligent Software Methodologies, Tools and Techniques: 14th International Conference, SoMet 2015, Naples, Italy, September 15-17, 2015. Proceedings. Springer Pags. 529-540. ISBN 978-3-319- 22689-7<br>
+<br>-C4.<u>A. Hernandez-Matamoros</u>, Andrea Bonarini, E. Escamilla-Hernandez, M. Nakano-Miyatake and H. Perez-Meana. [A Facial Expression Recognition with Automatic Segmentation of Face Regions](https://link.springer.com/chapter/10.1007%2F978-3-319-22689-7_41). Intelligent Software Methodologies, Tools and Techniques: 14th International Conference, SoMet 2015, Naples, Italy, September 15-17, 2015. Proceedings. Springer Pags. 529-540. ISBN 978-3-319- 22689-7.<br>
 
 <br>-C3.<u>A. Hernandez-Matamoros</u>, E. Escamilla-Hernandez, K. Perez-Daniel, M. Nakano-Miyatake and H. Perez-Meana, [A supervised classifier scheme based on clustering algorithms](https://ieeexplore.ieee.org/document/7000404), Central America and Panama Convention (CONCAPAN XXXIV), 2014 IEEE, Panama City, 2014, pp. 1-5.<br>
 
-<br>-C2.<u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Learning an object through images obtained from the Internet using Unsupervised Learning](cidetec.pdf), 9° International Congress Technological Trends in Computation indexed to the journal, "Research in Computer Science", 2013<br> 
+<br>-C2.<u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Learning an object through images obtained from the Internet using Unsupervised Learning](cidetec.pdf), 9° International Congress Technological Trends in Computation indexed to the journal, "Research in Computer Science", 2013.<br> 
 
-<br>-C1.<u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Object Learning using images from the Internet through Unsupervised Learning](pachuca.pdf),SIMCI 2013 <br>
+<br>-C1.<u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Object Learning using images from the Internet through Unsupervised Learning](pachuca.pdf),SIMCI 2013.<br>
 
 ## Languages
 English: spoken 90 % written 90%.<br>
