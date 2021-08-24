@@ -34,7 +34,7 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 -Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [PhD. Andrea Bonarini](https://bonarini.faculty.polimi.it/)
 <br>
 #  Other courses
--Japanese University Studies in Science & Technology ([JUSST](jusst.pdf)) (April 2015 - March 2016)
+-Japanese University Studies in Science & Technology ([JUSST](http://www.fedu.uec.ac.jp/en/future_students/jusst/)) (April 2015 - March 2016)
 
 ## Professional experience:
 ### Working experience
@@ -50,7 +50,7 @@ Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. [Ocean Industrial Scien
 -Publicity Chair: [SoMeT 2020 Japan Kytakyushu](https://jsasaki3.wixsite.com/somet2020)<br>
 <br>
 -Reviewer:<br>
-• Conferences: SoMeT 2017, SoMeT2019, SoMeT 2020, SoMeT 2021<br>
+• Conferences: [SoMeT 2017](http://p-www.iwate-pu.ac.jp/~jsasaki/SOMET2017/SOMET2017.pdf), [SoMeT2019](https://ieeecomputer.my/somet2019/), [SoMeT 2020](https://jsasaki3.wixsite.com/somet2020), [SoMeT 2021](https://atenea.esimecu.ipn.mx/)<br>
 • Journals: [Knowledge Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.springer.com/journal/10489), [Array](https://www.journals.elsevier.com/array)<br>
 
 <br>-Professor in [National Autonomous University of Mexico-General Management of Computing and Information and Communication Technologies](https://docencia.tic.unam.mx/cursos.php) (July 2017-December 2018) Courses taught 1) Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint and Internet.<br>
