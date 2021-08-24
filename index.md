@@ -60,9 +60,9 @@ Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-t
 <br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3, and Mathematics 4.
 
 ## Journal Publications
--J7. <u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision.<br> 
+-J7.<u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision.<br> 
 
-<br>-J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [Less complexity oneclass classification approach using construction error of convolutional image transformation network](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.<br>
+<br>-J6.Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [Less complexity oneclass classification approach using construction error of convolutional image transformation network](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.<br>
 
 <br>-J5.<u>Hernandez-Matamoros, A.</u>, Toshitaka H., Fujita, H., Hector Perez-Meana, [Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions](https://doi.org/10.1016/j.asoc.2020.106610), Applied Soft Computing, Volume 96, 11-2020, 106610, ISSN 1568-4946.<br>
 
@@ -73,16 +73,25 @@ Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-t
 <br>-J2.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. [Scheme fuzzy approach to classify skin tonalities through geographic distribution](https://doi.org/10.1007/s12652-019-01400-4), J. Ambient Intell Human Comput, 11, 2859–2870 (07-2019).<br>
 
 <br>-J1.<u>Andres Hernández-Matamoros</u>, Andrea Bonarini, Enrique Escamilla-Hernández, Mariko NakanoMiyatake, Héctor Pérez-Meana, [Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach](http://dx.doi.org/10.1016/j.knosys.2016.07.011), Knowledge-Based Systems, (2016), ISSN 0950-7051.<br>
+
 ## Conference Publications
--C9. <u>Hernandez-Matamoros, A.</u>, Fujita, & Perez-Meana, H. [Heart Beat Recognition using a novel preprocessing scheme and Neural Networks](https://ebooks.iospress.nl/volumearticle/55482) (pp. 162-172). (Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques). DOI 10.3233/FAIA200562.<br>
-<br>-C8. <u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano, M., Perez-Meana, H.,& Hernandez-Escamilla E.(2019).[A Scheme to Classify Skin Through Geographic Distribution of Tonalities Using Fuzzy Based Classification Approach](https://ebooks.iospress.nl/volumearticle/52672) (pp. 3-10). (Frontiers in Artificial Intelligence and Applications; Vol. 318). DOI 10.3233/FAIA190034.<br>
-<br>-C7. <u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial expression recognition in unconstrained environment](https://ebooks.iospress.nl/volumearticle/47594) (2017) (Frontiers in Artificial Intelligence and Applications; Vol. 297, pages 525-538) ISSN (Print)0922-6389<br>
-<br>-C6. <u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial Expression Recognition in the wild](oralpresentation.pdf) Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 35. Oral presentation. 2016<br>
-<br>-C5. <u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial Expression Recognition in the wild](poster.pdf) Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 34. Poster presentation. 2015<br>
-<br>-C4. <u>A. Hernandez-Matamoros</u>, Andrea Bonarini, E. Escamilla-Hernandez, M. Nakano-Miyatake and H. Perez-Meana. [A Facial Expression Recognition with Automatic Segmentation of Face Regions](https://link.springer.com/chapter/10.1007%2F978-3-319-22689-7_41). Intelligent Software Methodologies, Tools and Techniques: 14th International Conference, SoMet 2015, Naples, Italy, September 15-17, 2015. Proceedings. Springer Pags. 529-540. ISBN 978-3-319- 22689-7<br>
-<br>-C3. <u>A. Hernandez-Matamoros</u>, E. Escamilla-Hernandez, K. Perez-Daniel, M. Nakano-Miyatake and H. Perez-Meana, [A supervised classifier scheme based on clustering algorithms](https://ieeexplore.ieee.org/document/7000404), Central America and Panama Convention (CONCAPAN XXXIV), 2014 IEEE, Panama City, 2014, pp. 1-5.<br>
-<br>-C2. <u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Learning an object through images obtained from the Internet using Unsupervised Learning](cidetec.pdf), 9° International Congress Technological Trends in Computation indexed to the journal, "Research in Computer Science", 2013<br> 
-<br>-C1. <u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Object Learning using images from the Internet through Unsupervised Learning](pachuca.pdf),SIMCI 2013 <br>
+-C9.<u>Hernandez-Matamoros, A.</u>, Fujita, & Perez-Meana, H. [Heart Beat Recognition using a novel preprocessing scheme and Neural Networks](https://ebooks.iospress.nl/volumearticle/55482) (pp. 162-172). (Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques). DOI 10.3233/FAIA200562.<br>
+
+<br>-C8.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano, M., Perez-Meana, H.,& Hernandez-Escamilla E.(2019).[A Scheme to Classify Skin Through Geographic Distribution of Tonalities Using Fuzzy Based Classification Approach](https://ebooks.iospress.nl/volumearticle/52672) (pp. 3-10). (Frontiers in Artificial Intelligence and Applications; Vol. 318). DOI 10.3233/FAIA190034.<br>
+
+<br>-C7.<u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial expression recognition in unconstrained environment](https://ebooks.iospress.nl/volumearticle/47594) (2017) (Frontiers in Artificial Intelligence and Applications; Vol. 297, pages 525-538) ISSN (Print)0922-6389<br>
+
+<br>-C6.<u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial Expression Recognition in the wild](oralpresentation.pdf) Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 35. Oral presentation. 2016<br>
+
+<br>-C5.<u>Andres Hernandez-Matamoros</u>, Takayuki Nagai, Muhammad Attamimi, Hector Perez-Meana, [Facial Expression Recognition in the wild](poster.pdf) Mini-Conference for Exchange Students on Informatics & Engineering and Information Systems No. 34. Poster presentation. 2015<br>
+
+<br>-C4.<u>A. Hernandez-Matamoros</u>, Andrea Bonarini, E. Escamilla-Hernandez, M. Nakano-Miyatake and H. Perez-Meana. [A Facial Expression Recognition with Automatic Segmentation of Face Regions](https://link.springer.com/chapter/10.1007%2F978-3-319-22689-7_41). Intelligent Software Methodologies, Tools and Techniques: 14th International Conference, SoMet 2015, Naples, Italy, September 15-17, 2015. Proceedings. Springer Pags. 529-540. ISBN 978-3-319- 22689-7<br>
+
+<br>-C3.<u>A. Hernandez-Matamoros</u>, E. Escamilla-Hernandez, K. Perez-Daniel, M. Nakano-Miyatake and H. Perez-Meana, [A supervised classifier scheme based on clustering algorithms](https://ieeexplore.ieee.org/document/7000404), Central America and Panama Convention (CONCAPAN XXXIV), 2014 IEEE, Panama City, 2014, pp. 1-5.<br>
+
+<br>-C2.<u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Learning an object through images obtained from the Internet using Unsupervised Learning](cidetec.pdf), 9° International Congress Technological Trends in Computation indexed to the journal, "Research in Computer Science", 2013<br> 
+
+<br>-C1.<u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Object Learning using images from the Internet through Unsupervised Learning](pachuca.pdf),SIMCI 2013 <br>
 
 ## Languages
 English: spoken 90 % written 90%.<br>
