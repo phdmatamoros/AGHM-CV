@@ -110,4 +110,3 @@ Matplotlib, Scikit-learn, Keras, TensorFlow, Pytorch.
 FPGA Virtex II and Spartan-3, Microcontrollers, Spectrum analyzers, Oscilloscope, Function generator.
 ## Personal & Professional References
 Upon Request
-
