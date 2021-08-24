@@ -88,6 +88,11 @@ Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-t
 English: spoken 90 % written 90%.<br>
 Italian: spoken 25 % written 25%.<br>
 Japanese: spoken 10 % written 10%.<br>
+
+## Skills
+
+Statistics, Programming knowledge, Data Manipulation and Analysis, Machine Learning, Deep Learning, Model Deployment, Communication Skills, Structured Thinking,Curiosity
+
 ## Software
 Windows, Linux, MAC OS, Office, Matlab, Simulink, System Generator, ISE 6.1 Xilinx, Nallatech FUSE,
 AVR Studio, Pony Prog, Code::Blocks , Dev-C++, Visual Studio, OpenCV, Anaconda, Python, Pandas,
