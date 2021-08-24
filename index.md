@@ -1,8 +1,8 @@
 # Andres Hernandez-Matamoros
 
-I received the degree of Electronics Engineer from the Metropolitan Autonomous University (Mexico) in 2011. Later in 2013 and 2018, I received a Master's degree in Microelectronics and a Ph.D. in Communications and Electronics. Ph.D. graduated with honors from Polytechnic National Institute (Mexico). I carried out a research stay at the Politecnico di Milano between 2012 and 2013. From 2015 to 2016, I carried out a research stay (JUSST program) at the University of Electro-Communications in Tokyo, Japan. From 2019-2020, I carried a postdoctoral stay at Iwate Prefectural University in Intelligent Software Systems (Fujita Laboratory). Nowadays, I am a project researcher
-at The University of Tokyo developing anomaly detection using deep learning approaches.<br>
+I received the degree of Electronics Engineer from the Metropolitan Autonomous University (Mexico) in 2011. Later in 2013 and 2018, I received a Master's degree in Microelectronics and a Ph.D. in Communications and Electronics. Ph.D. graduated with honors from Polytechnic National Institute (Mexico). I carried out a research stay at the Politecnico di Milano between 2012 and 2013. From 2015 to 2016, I carried out a research stay (JUSST program) at the University of Electro-Communications in Tokyo, Japan. From 2019-2020, I carried a postdoctoral stay at Iwate Prefectural University in Intelligent Software Systems (Fujita Laboratory). Nowadays, I am a project researcher at The University of Tokyo developing anomaly detection using deep learning approaches.<br>
 
+## You can find me on LinkedIn
 [Google Scholar]( https://scholar.google.com/citations?user=kkE-410AAAAJ&hl=en),
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-h-ab626b78),
 [ORCID](https://orcid.org/0000-0002-4896-2909),
@@ -47,17 +47,17 @@ Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. [Ocean Industrial Scien
 <br>
 -Organizing Chair: [SoMeT 2021 Mexico-Cancun](https://atenea.esimecu.ipn.mx/)<br>
 <br>
--Publicity Chair: SoMeT 2020 Japan Kytakyushu<br>
+-Publicity Chair: [SoMeT 2020 Japan Kytakyushu](https://jsasaki3.wixsite.com/somet2020)<br>
 <br>
 -Reviewer:<br>
 • Conferences: SoMeT 2017, SoMeT2019, SoMeT 2020, SoMeT 2021<br>
-• Journals: Knowledge Based Systems, Applied Intelligence, Array<br>
+• Journals: [Knowledge Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.springer.com/journal/10489), [Array](https://www.journals.elsevier.com/array)<br>
 
-<br>-Professor in National Autonomous University of Mexico-General Management of Computing and Information and Communication Technologies (July 2017-December 2018) Courses taught 1) Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint and Internet.<br>
-<br>-Professor at Autonomous Metropolitan University (September 2017- March 2018) Imparting the course of Algorithms and Data Structures.<br>
-<br>-Professor at UNITEC (May 2016-August-2016) Course on System and Signal Analysis.<br>
-<br>-Professor at the Autonomous University of Mexico City (August 2014-December 2014). Course on Digital Signal Processing.<br>
-<br>-Professor at the Technological School of Mexico from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.<br>
+<br>-Professor in [National Autonomous University of Mexico-General Management of Computing and Information and Communication Technologies](https://docencia.tic.unam.mx/cursos.php) (July 2017-December 2018) Courses taught 1) Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint and Internet.<br>
+<br>-Professor at [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html) (September 2017- March 2018) Imparting the course of Algorithms and Data Structures.<br>
+<br>-Professor at [UNITEC](https://www.unitec.mx/) (May 2016-August-2016) Course on System and Signal Analysis.<br>
+<br>-Professor at the [Autonomous University of Mexico City](https://www.uacm.edu.mx/) (August 2014-December 2014). Course on Digital Signal Processing.<br>
+<br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) from August 2013 to July 2014 giving courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3 and Mathematics 4.<br>
 
 ## Journal Publications:
 -J7. <u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision<br> 
