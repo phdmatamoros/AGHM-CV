@@ -23,14 +23,14 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 [Facial Expression Recognition](http://dx.doi.org/10.1016/j.knosys.2016.07.011)
 
 # Education
--2014 - 2018 National Polytechnic Institute, Mexico City. Title of the Thesis “Facial Expression Recognition” Ph.D. on Communications and Electronics (Honorific Mention). <br>
+-2014 - 2018 [National Polytechnic Institute](https://www.ipn.mx/), Mexico City. Title of the Thesis “Facial Expression Recognition” [Ph.D. on Communications and Electronics](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=17&Itemid=141) (Honorific Mention). <br>
 <br>
--2011 - 2013 National Polytechnic Institute, Mexico City.Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms." Master in Microelectronics Engineering. <br>
+-2011 - 2013 [National Polytechnic Institute](https://www.ipn.mx/), Mexico City.Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms." [Master in Microelectronics Engineering](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=20&Itemid=142). <br>
  <br>
--2006 - 2011 Autonomous Metropolitan University, Mexico City. Electronic Engineer
+-2006 - 2011 [Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html), Mexico City. [Electronic Engineer](http://die.izt.uam.mx/index.php/ingenieria-electronica/)
 # Research stays
--University of Electro-communications, Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [PhD. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/)<br>
--Polytechnic of Milan, Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [PhD. Andrea Bonarini](https://bonarini.faculty.polimi.it/)
+-[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [PhD. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/)<br>
+-[Polytechnic of Milan](https://www.polimi.it/en/), Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [PhD. Andrea Bonarini](https://bonarini.faculty.polimi.it/)
 <br>
 #  Other courses
 -Japanese University Studies in Science & Technology ([JUSST](http://www.fedu.uec.ac.jp/en/future_students/jusst/)) (April 2015 - March 2016)
@@ -40,9 +40,9 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 Senior Consultant in Artificial Intelligent (17/05/2018-31/12/2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I was keeping in touch with all areas at Praxis to apply A.I. in areas like Big Data,Health, Financial, etc. I had the responsibility to create white papers and gave them advice applying A.I. to costumers.
 <br>
 ### Academic experience
-Postdoctoral Stay (11/2020 – 3/2022) Tokyo University. [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
+Postdoctoral Stay (11/2020 – 3/2022) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/). [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
 <br>
--Postdoctoral Stay (01/2019 - 10/2020) Iwate Prefectural University. [Fujita’s Laboratory](http://www.fujita.soft.iwate-pu.ac.jp/). Research in Arrhythmia detection using Deep Learning<br>
+-Postdoctoral Stay (01/2019 - 10/2020) [Iwate Prefectural University](https://www.iwate-pu.ac.jp/en/). [Fujita’s Laboratory](http://www.fujita.soft.iwate-pu.ac.jp/). Research in Arrhythmia detection using Deep Learning<br>
 <br>
 -Organizing Chair: [SoMeT 2021 Mexico-Cancun](https://atenea.esimecu.ipn.mx/)<br>
 <br>
