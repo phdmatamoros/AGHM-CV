@@ -17,7 +17,7 @@ Email: <a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>
 Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection
 
 ## Projects
-[Anomaly Detection](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/members)<br>
+[Anomaly Detection](https://phdmatamoros.github.io/StuckDetection/)<br>
 [Forecasting of Covid-19](https://doi.org/10.1016/j.asoc.2020.106610)<br>
 [Creating synthetic biomedical signals](https://phdmatamoros.github.io/BiRNN/)<br>
 [Recognition of ECG Signals](https://doi.org/10.1016/j.bbe.2020.02.007)<br>
