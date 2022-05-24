@@ -10,19 +10,28 @@ I received the degree of Electronics Engineer from the Metropolitan Autonomous U
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56646446200),
 [Research Map](https://researchmap.jp/matamoros?lang=en)<br>
 
-Email: <a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>
+Email: <a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>, <a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>
 
 ## Areas of interest
 
-Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection
+Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection, Privacy Data
 
 ## Projects
+[Local Differential Privacy](https://phdmatamoros.github.io/StuckDetection/)<br>
 [Anomaly Detection](https://phdmatamoros.github.io/StuckDetection/)<br>
 [Forecasting of Covid-19](https://doi.org/10.1016/j.asoc.2020.106610)<br>
 [Creating synthetic biomedical signals](https://phdmatamoros.github.io/BiRNN/)<br>
 [Recognition of ECG Signals](https://doi.org/10.1016/j.bbe.2020.02.007)<br>
 [Skin detection](https://doi.org/10.1007/s12652-019-01400-4)<br>
 [Facial Expression Recognition](http://dx.doi.org/10.1016/j.knosys.2016.07.011)
+
+# Distinctions
+
+National System of Researchers, Level 1 (Mexico-CONACyT)
+
+# Membership
+
+The Information Processing Society of Japan (IPSJ)
 
 # Education
 -2014 - 2018.[National Polytechnic Institute](https://www.ipn.mx/), Mexico City. Title of the Thesis “Facial Expression Recognition” [Ph.D. on Communications and Electronics](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=17&Itemid=141) (Honorific Mention). <br>
