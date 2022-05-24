@@ -17,7 +17,7 @@ Email: <a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>, <a 
 Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection, Privacy Data
 
 ## Projects
-[Local Differential Privacy](https://phdmatamoros.github.io/StuckDetection/)<br>
+[Data Privacy](https://phdmatamoros.github.io/StuckDetection/)<br>
 [Anomaly Detection](https://phdmatamoros.github.io/StuckDetection/)<br>
 [Forecasting of Covid-19](https://doi.org/10.1016/j.asoc.2020.106610)<br>
 [Creating synthetic biomedical signals](https://phdmatamoros.github.io/BiRNN/)<br>
@@ -50,9 +50,8 @@ The Information Processing Society of Japan (IPSJ)
 ### Working experience
 Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I kept in touch with all areas at Praxis to apply A.I. in areas like Big Data, Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply A.I.
 ### Academic experience
-Postdoctoral Stay (March 2022) [Meiji University](https://www.meiji.ac.jp/). [Kikuchi Lab.](https://www.kikn.fms.meiji.ac.jp/) Research in Data Privacy.<br>
-<br>
-Postdoctoral Stay (November 2020 – February 2022) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/). [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
+-Postdoctoral Stay (March 2022- ) [Meiji University](https://www.meiji.ac.jp/). [Kikuchi Lab.](https://www.kikn.fms.meiji.ac.jp/) Research in Data Privacy.<br>
+-Postdoctoral Stay (November 2020 – February 2022) [The University of Tokyo](https://www.u-tokyo.ac.jp/en/). [Ocean Industrial Science, Technology & Environmental Relations Lab.](https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/) Research in Anomaly Detection applying Deep learnig.<br>
 <br>
 -Postdoctoral Stay (January 2019 - October 2020) [Iwate Prefectural University](https://www.iwate-pu.ac.jp/en/). [Fujita’s Laboratory](http://www.fujita.soft.iwate-pu.ac.jp/). Research in Arrhythmia detection using Deep Learning.<br>
 <br>
@@ -86,6 +85,9 @@ Postdoctoral Stay (November 2020 – February 2022) [The University of Tokyo](ht
 <br>-J1.<u>Andres Hernández-Matamoros</u>, Andrea Bonarini, Enrique Escamilla-Hernández, Mariko NakanoMiyatake, Héctor Pérez-Meana, [Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach](http://dx.doi.org/10.1016/j.knosys.2016.07.011), Knowledge-Based Systems, (2016), ISSN 0950-7051.<br>
 
 ## Conference Publications
+
+-C10.Hiroaki Kikuchi, Shun Miyoshi, Takafumi Mori, <u>A. Hernandez-Matamoros</u> [A Vulnerability in Face Anonymization – Privacy Disclosure from Face-obfuscated video] Under revision at PST 2022 <br>
+
 -C9.<u>Hernandez-Matamoros, A.</u>, Fujita, & Perez-Meana, H. [Heart Beat Recognition using a novel preprocessing scheme and Neural Networks](https://ebooks.iospress.nl/volumearticle/55482), pp. 162-172, Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques, DOI 10.3233/FAIA200562.<br>
 
 <br>-C8.<u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano, M., Perez-Meana, H.,& Hernandez-Escamilla E.(2019).[A Scheme to Classify Skin Through Geographic Distribution of Tonalities Using Fuzzy Based Classification Approach](https://ebooks.iospress.nl/volumearticle/52672) (pp. 3-10), Frontiers in Artificial Intelligence and Applications; Vol. 318,  DOI 10.3233/FAIA190034.<br>
