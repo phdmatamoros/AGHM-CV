@@ -86,7 +86,7 @@ Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Pra
 
 ## Conference Publications
 
--C10.Hiroaki Kikuchi, Shun Miyoshi, Takafumi Mori, <u>A. Hernandez-Matamoros</u> [A Vulnerability in Face Anonymization – Privacy Disclosure from Face-obfuscated video] Under revision at PST 2022 <br>
+-C10.Hiroaki Kikuchi, Shun Miyoshi, Takafumi Mori, <u>A. Hernandez-Matamoros</u> [A Vulnerability in Face Anonymization – Privacy Disclosure from Face-obfuscated video](https://pstnet.ca/) Under revision at PST 2022 <br>
 
 -C9.<u>Hernandez-Matamoros, A.</u>, Fujita, & Perez-Meana, H. [Heart Beat Recognition using a novel preprocessing scheme and Neural Networks](https://ebooks.iospress.nl/volumearticle/55482), pp. 162-172, Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques, DOI 10.3233/FAIA200562.<br>
 
