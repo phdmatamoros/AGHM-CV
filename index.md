@@ -14,7 +14,7 @@ Email: <a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>, <a 
 
 ## Areas of interest
 
-Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection, Privacy Data
+Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, Anomaly Detection, Data Privacy
 
 ## Projects
 [Data Privacy](https://phdmatamoros.github.io/StuckDetection/)<br>
@@ -27,11 +27,11 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 
 # Distinctions
 
-National System of Researchers, Level 1 (Mexico-CONACyT)
+National System of Researchers, Level 1 (Mexico-CONACyT) [Document in Spanish](SNI.pdf)
 
 # Membership
 
-The Information Processing Society of Japan (IPSJ)
+The Information Processing Society of Japan (IPSJ)[Document in Japnese](IPSJ.pdf)
 
 # Education
 -2014 - 2018.[National Polytechnic Institute](https://www.ipn.mx/), Mexico City. Title of the Thesis “Facial Expression Recognition” [Ph.D. on Communications and Electronics](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=17&Itemid=141) (Honorific Mention). <br>
