@@ -37,24 +37,21 @@ National System of Researchers, Level 1 (Mexico-CONACyT) [Document in Spanish](S
 The Information Processing Society of Japan (IPSJ) [Document in Japnese](IPSJ.pdf)
 
 # Education
-<p align="justify">
--2014 - 2018.[National Polytechnic Institute](https://www.ipn.mx/), Mexico City. Title of the Thesis “Facial Expression Recognition” [Ph.D. on Communications and Electronics](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=17&Itemid=141) (Honorific Mention).</p>
+
+-2014 - 2018.[National Polytechnic Institute](https://www.ipn.mx/), Mexico City. Title of the Thesis “Facial Expression Recognition” [Ph.D. on Communications and Electronics](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=17&Itemid=141) (Honorific Mention).
 <br>
 <br>
- <p align="justify">
--2011 - 2013.[National Polytechnic Institute](https://www.ipn.mx/), Mexico City.Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms." [Master in Microelectronics Engineering](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=20&Itemid=142).</p>
+-2011 - 2013.[National Polytechnic Institute](https://www.ipn.mx/), Mexico City.Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms." [Master in Microelectronics Engineering](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=20&Itemid=142).
 <br>
  <br>
-  <p align="justify">
--2006 - 2011.[Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html), Mexico City. [Electronic Engineer](http://die.izt.uam.mx/index.php/ingenieria-electronica/).</p>
+-2006 - 2011.[Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html), Mexico City. [Electronic Engineer](http://die.izt.uam.mx/index.php/ingenieria-electronica/).
 
 # Research stays
-<p align="justify">
--[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [Ph.D. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/).</p>
+
+-[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [Ph.D. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/).
 <br><br>
-<p align="justify">
+
 -[Polytechnic of Milan](https://www.polimi.it/en/), Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [Ph.D. Andrea Bonarini](https://bonarini.faculty.polimi.it/).
-</p>
 <br>
 #  Other courses
 -Japanese University Studies in Science & Technology ([JUSST](http://www.fedu.uec.ac.jp/en/future_students/jusst/)) (April 2015 - March 2016).
