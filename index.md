@@ -60,7 +60,7 @@ Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Pra
 -Publicity Chair: [SoMeT 2020 Japan Kytakyushu](https://jsasaki3.wixsite.com/somet2020)<br>
 <br>
 -Reviewer:<br>
-• Conferences: [SoMeT 2017](http://p-www.iwate-pu.ac.jp/~jsasaki/SOMET2017/SOMET2017.pdf), [SoMeT2019](https://ieeecomputer.my/somet2019/), [SoMeT 2020](https://jsasaki3.wixsite.com/somet2020), [SoMeT 2021](https://atenea.esimecu.ipn.mx/)<br>
+• Conferences: [SoMeT 2017](http://p-www.iwate-pu.ac.jp/~jsasaki/SOMET2017/SOMET2017.pdf), [SoMeT2019](https://ieeecomputer.my/somet2019/), [SoMeT 2020](https://jsasaki3.wixsite.com/somet2020), [SoMeT 2021](https://atenea.esimecu.ipn.mx/),[SoMeT 2022](https://www.somet2022.com/)<br>
 • Journals: [Knowledge Based Systems](https://www.journals.elsevier.com/knowledge-based-systems), [Applied Intelligence](https://www.springer.com/journal/10489), [Array](https://www.journals.elsevier.com/array)<br>
 
 <br>-Professor in [National Autonomous University of Mexico-General Management of Computing and Information and Communication Technologies](https://docencia.tic.unam.mx/cursos.php) (July 2017-December 2018) Imparting 1) Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint and Internet.<br>
