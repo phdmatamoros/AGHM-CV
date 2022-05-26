@@ -49,7 +49,7 @@ The Information Processing Society of Japan (IPSJ) [Document in Japnese](IPSJ.pd
 # Research stays
 
 -[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [Ph.D. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/).
-<br>
+<br><br>
 -[Polytechnic of Milan](https://www.polimi.it/en/), Milano Italy (October 2012 - March 2013) Research on facial expressions using OpenCV to detect the face, then a machine learning technique was proposed to recognize the face regions. Advisor [Ph.D. Andrea Bonarini](https://bonarini.faculty.polimi.it/).
 <br>
 #  Other courses
