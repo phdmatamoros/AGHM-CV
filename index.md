@@ -29,15 +29,15 @@ Image Processing, Machine Learning, Deep Learning, Processing Digital Signals, A
 [Skin detection](https://doi.org/10.1007/s12652-019-01400-4)<br>
 [Facial Expression Recognition](http://dx.doi.org/10.1016/j.knosys.2016.07.011)
 
-# Distinctions
+## Distinctions
 
 National System of Researchers, Level 1 (Mexico-CONACyT) [Document in Spanish](SNI.pdf)
 
-# Membership
+## Membership
 
 The Information Processing Society of Japan (IPSJ) [Document in Japnese](IPSJ.pdf)
 
-# Education
+## Education
 
 -2014 - 2018.[National Polytechnic Institute](https://www.ipn.mx/), Mexico City. Title of the Thesis “Facial Expression Recognition” [Ph.D. on Communications and Electronics](https://posgrados.esimecu.ipn.mx/index.php?option=com_content&view=category&layout=blog&id=17&Itemid=141) (Honorific Mention).
 <br>
@@ -47,7 +47,7 @@ The Information Processing Society of Japan (IPSJ) [Document in Japnese](IPSJ.pd
  <br>
 -2006 - 2011.[Autonomous Metropolitan University](https://www.uam.mx/lang/eng/index.html), Mexico City. [Electronic Engineer](http://die.izt.uam.mx/index.php/ingenieria-electronica/).
 
-# Research stays
+## Research stays
 
 -[University of Electro-communications](https://www.uec.ac.jp/), Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor [Ph.D. Takayuki Nagai](http://www.rlg.sys.es.osaka-u.ac.jp/).
 <br><br>
