@@ -47,7 +47,7 @@ The Information Processing Society of Japan (IPSJ) [Document in Japnese](IPSJ.pd
 -Japanese University Studies in Science & Technology ([JUSST](http://www.fedu.uec.ac.jp/en/future_students/jusst/)) (April 2015 - March 2016).
 
 ## Professional experience
-### Working experience
+### Industry experience
 Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Praxis(Mexico)](https://mexico.praxisglobe.com/). I kept in touch with all areas at Praxis to apply A.I. in areas like Big Data, Health, Financial, etc. I had the responsibility to create white papers and advised customers about how to apply A.I.
 ### Academic experience
 -Postdoctoral Stay (March 2022- ) [Meiji University](https://www.meiji.ac.jp/). [Kikuchi Lab.](https://www.kikn.fms.meiji.ac.jp/) Research in Data Privacy.<br><br>
