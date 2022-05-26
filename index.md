@@ -1,9 +1,8 @@
 # Andres Hernandez-Matamoros
-<p text-align: justify>
+<p class="text-justify">
 I received the degree of Electronics Engineer from the Metropolitan Autonomous University (Mexico) in 2011. Later in 2013 and 2018, I received a Master's degree in Microelectronics and a Ph.D. in Communications and Electronics. Ph.D. graduated with honors from Polytechnic National Institute (Mexico). I carried out a research stay at the Politecnico di Milano between 2012 and 2013. From 2015 to 2016, I carried out a research stay (JUSST program) at the University of Electro-Communications in Tokyo, Japan. From 2019-2020, I carried a postdoctoral stay at Iwate Prefectural University in Intelligent Software Systems (Fujita Laboratory). I was a project researcher at The University of Tokyo developing anomaly detection using deep learning approaches. Nowadays, I am postdoctoral researcher at Meiji University.
 </p>
 
-justify
 
 
 ## You can find me on
