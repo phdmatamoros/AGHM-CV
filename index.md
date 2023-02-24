@@ -80,7 +80,7 @@ Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Pra
 <br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) (August 2013 - July 2014). Imparting courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3, and Mathematics 4.
 
 ## Journal Publications
--J7.<u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", Under revision.<br> 
+-J7.<u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", [arXiv](https://arxiv.org/abs/2302.11135).<br> 
 
 <br>-J6.Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [Less complexity oneclass classification approach using construction error of convolutional image transformation network](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.<br>
 
@@ -96,7 +96,9 @@ Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Pra
 
 ## Conference Publications
 
--C10.H. Kikuchi, S. Miyoshi, T. Mori and <u>A. Hernandez-Matamoros</u>, [A Vulnerability in Video Anonymization – Privacy Disclosure from Face-obfuscated video](https://www.computer.org/csdl/proceedings-article/pst/2022/09851976/1FWmlNTorfy), in 2022 19th Annual International Conference on Privacy, Security & Trust (PST), Fredericton, NB, Canada, 2022 pp. 1-10.
+-C11 <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, [Risk Evaluation of LDP scheme LoPub against Variational Autoencoder](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223096&item_no=1&page_id=13&block_id=8),Computer Security Symposium 2022, pp. 289-296, 2022.
+
+<br>-C10.H. Kikuchi, S. Miyoshi, T. Mori and <u>A. Hernandez-Matamoros</u>, [A Vulnerability in Video Anonymization – Privacy Disclosure from Face-obfuscated video](https://www.computer.org/csdl/proceedings-article/pst/2022/09851976/1FWmlNTorfy), in 2022 19th Annual International Conference on Privacy, Security & Trust (PST), Fredericton, NB, Canada, 2022 pp. 1-10.
 doi: 10.1109/PST55820.2022.9851976<br>
 
 <br>-C9.<u>Hernandez-Matamoros, A.</u>, Fujita, & Perez-Meana, H. [Heart Beat Recognition using a novel preprocessing scheme and Neural Networks](https://ebooks.iospress.nl/volumearticle/55482), pp. 162-172, Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques, DOI 10.3233/FAIA200562.<br>
@@ -113,9 +115,9 @@ doi: 10.1109/PST55820.2022.9851976<br>
 
 <br>-C3.<u>A. Hernandez-Matamoros</u>, E. Escamilla-Hernandez, K. Perez-Daniel, M. Nakano-Miyatake and H. Perez-Meana, [A supervised classifier scheme based on clustering algorithms](https://ieeexplore.ieee.org/document/7000404), Central America and Panama Convention (CONCAPAN XXXIV), 2014 IEEE, Panama City, 2014, pp. 1-5.<br>
 
-<br>-C2.<u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Learning an object through images obtained from the Internet using Unsupervised Learning](cidetec.pdf), 9° International Congress Technological Trends in Computation indexed to the journal, "Research in Computer Science", 2013.<br> 
+<br>-C2.<u>Andres Gerardo Hernandez Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Learning an object through images obtained from the Internet using Unsupervised Learning](cidetec.pdf), 9° International Congress Technological Trends in Computation indexed to the journal, "Research in Computer Science", 2013.<br> 
 
-<br>-C1.<u>Andrés Gerardo Hernández Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Object Learning using images from the Internet through Unsupervised Learning](pachuca.pdf), SIMCI 2013.<br>
+<br>-C1.<u>Andres Gerardo Hernandez Matamoros</u>, Hector Manuel Pérez Meana, Enrique Escamilla Hernández, [Object Learning using images from the Internet through Unsupervised Learning](pachuca.pdf), SIMCI 2013.<br>
 
 ## Languages
 English:  spoken 90 % written 90%<br>
