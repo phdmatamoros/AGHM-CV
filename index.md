@@ -8,11 +8,11 @@
 <a href="https://www.researchgate.net/profile/Andres-Hernandez-Matamoros">Research Gate</a>,
 <a href="https://www.scopus.com/authid/detail.uri?authorId=56646446200">Scopus</a>,
 <a href="https://researchmap.jp/matamoros?lang=en">Research Map</a><br>
-Email:<a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>,<a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a></p>
+Email:<a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>,<a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>
 						
 			
 <h2 id="areas-of-interest">Areas of interest</h2>
-Data Privacy, Machine Learning, Deep Learning, Image Processing, Anomaly Detection, Processing Digital Signals</p>		
+Data Privacy, Machine Learning, Deep Learning, Image Processing, Anomaly Detection, Processing Digital Signals		
 	
 <h2 id="projects">Projects</h2>
 <a href="https://github.com/phdmatamoros/New-LDP-approach-using-VAE">Data Privacy using VAE</a><br>
@@ -21,7 +21,7 @@ Data Privacy, Machine Learning, Deep Learning, Image Processing, Anomaly Detecti
 <a href="https://phdmatamoros.github.io/BiRNN/">Creating synthetic biomedical signals</a><br>
 <a href="https://doi.org/10.1016/j.bbe.2020.02.007">Recognition of ECG Signals</a><br>
 <a href="https://doi.org/10.1007/s12652-019-01400-4">Skin detection</a><br>
-Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.07.011">Paper</a> <a href="https://www.youtube.com/watch?v=Dv2_z1TCIP4">Video</a></p>
+Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.07.011">Paper</a> <a href="https://www.youtube.com/watch?v=Dv2_z1TCIP4">Video</a>
 
 <h2 id="distinctions">Distinctions</h2>
 
