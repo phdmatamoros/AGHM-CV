@@ -80,7 +80,7 @@ Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Pra
 <br>-Professor at the [Technological School of Mexico](https://tecdemexico.edu.mx/) (August 2013 - July 2014). Imparting courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3, and Mathematics 4.
 
 ## Journal Publications
--J7.<u>Hernandez-Matamoros A.</u>, Ryota Wada, et al. “Semisupervised Early Stuck Detection", [arXiv](https://arxiv.org/abs/2302.11135).<br> 
+-J7.Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez,  <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models under preparation.<br> 
 
 <br>-J6.Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, [Less complexity oneclass classification approach using construction error of convolutional image transformation network](https://doi.org/10.1016/j.ins.2021.01.069),Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.<br>
 
@@ -96,7 +96,12 @@ Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Pra
 
 ## Conference Publications
 
--C11 <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, [Risk Evaluation of LDP scheme LoPub against Variational Autoencoder](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223096&item_no=1&page_id=13&block_id=8),Computer Security Symposium 2022, pp. 289-296, 2022.
+
+<br>-C13. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, New LDP approach using VAE to be presented at NSS 2023, UK, Canterbury, August 14-16, 2023. GitHub<br>
+
+<br>-C12. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models to be presented at CMAS-Asia-Pacific, Japan, July 19-21, 2023.<br>
+
+<br>-C11. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, [Risk Evaluation of LDP scheme LoPub against Variational Autoencoder](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223096&item_no=1&page_id=13&block_id=8),Computer Security Symposium 2022, pp. 289-296, 2022.<br>
 
 <br>-C10.H. Kikuchi, S. Miyoshi, T. Mori and <u>A. Hernandez-Matamoros</u>, [A Vulnerability in Video Anonymization – Privacy Disclosure from Face-obfuscated video](https://www.computer.org/csdl/proceedings-article/pst/2022/09851976/1FWmlNTorfy), in 2022 19th Annual International Conference on Privacy, Security & Trust (PST), Fredericton, NB, Canada, 2022 pp. 1-10.
 doi: 10.1109/PST55820.2022.9851976<br>
