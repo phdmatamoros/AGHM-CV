@@ -97,7 +97,8 @@ Senior Consultant in Artificial Intelligent (April 2018 - December 2018) at [Pra
 ## Conference Publications
 
 
-<br>-C13. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, New LDP approach using VAE to be presented at NSS 2023, UK, Canterbury, August 14-16, 2023. GitHub<br>
+<p align="justify">C13. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, New LDP approach using VAE to be presented at <a href="https://nss-socialsec2023.cyber.kent.ac.uk/">NSS 2023</a>, UK, Canterbury, August 14-16, 2023. <a href="https://github.com/phdmatamoros/New-LDP-approach-using-VAE">GitHub</a></p>
+
 
 <br>-C12. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models to be presented at CMAS-Asia-Pacific, Japan, July 19-21, 2023.<br>
 
