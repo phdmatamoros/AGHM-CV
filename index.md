@@ -80,7 +80,7 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <h2 id="journal-publications">Journal Publications</h2>
 
-<p align="justify">J7. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models under revision</p>
+<p align="justify">J7. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models under preparation</p>
 
 <p align="justify">J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, <a href="https://doi.org/10.1016/j.ins.2021.01.069">Less complexity oneclass classification approach using construction error of convolutional image transformation network</a>,Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.</p>
 
