@@ -141,6 +141,6 @@ Matplotlib, Scikit-learn, Keras, TensorFlow, Pytorch.</p>
 <h2 id="personal--professional-references">Personal &amp; Professional References</h2>
 <p>Upon Request</p>
 
-</div>
+
 	
 
