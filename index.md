@@ -96,6 +96,8 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <h2 id="conference-publications">Conference Publications</h2>
 
+<p align="justify">C14. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, An Efficient Local Differential Privacy Scheme Using Bayesian Ridge Regression to be presented at <a href="https://pstnet.ca/">PST 2023</a>, Denmark, Copenhaguen, August 21-23, 2023. <a href="https://github.com/phdmatamoros/LDP-BRR">GitHub</a></p>
+
 <p align="justify">C13. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, New LDP approach using VAE to be presented at <a href="https://nss-socialsec2023.cyber.kent.ac.uk/">NSS 2023</a>, UK, Canterbury, August 14-16, 2023. <a href="https://github.com/phdmatamoros/New-LDP-approach-using-VAE">GitHub</a></p>
 
 <p align="justify">C12. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models to be presented at <a href="https://confit.atlas.jp/guide/event/cmas2023/top?lang=en">CMAS-Asia-Pacific</a>, Japan, July 19-21, 2023.</p>
