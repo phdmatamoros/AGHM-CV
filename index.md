@@ -98,7 +98,7 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <p align="justify">C14. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, An Efficient Local Differential Privacy Scheme Using Bayesian Ridge Regression to be presented at <a href="https://pstnet.ca/">PST 2023</a>, Denmark, Copenhaguen, August 21-23, 2023. <a href="https://github.com/phdmatamoros/LDP-BRR">GitHub</a></p>
 
-<p align="justify">C13. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, New LDP approach using VAE to be presented at <a href="https://nss-socialsec2023.cyber.kent.ac.uk/">NSS 2023</a>, UK, Canterbury, August 14-16, 2023. <a href="https://github.com/phdmatamoros/New-LDP-approach-using-VAE">GitHub</a></p>
+<p align="justify">C13. <u>Hernandez-Matamoros, A.</u>, , Kikuchi, H. (2023).<a href="https://link.springer.com/chapter/10.1007/978-3-031-39828-5_10">New LDP Approach Using VAE.</a>  In: Li, S., Manulis, M., Miyaji, A. (eds) Network and System Security. NSS 2023. Lecture Notes in Computer Science, vol 13983. Springer, Cham. https://doi.org/10.1007/978-3-031-39828-5_10 </p>
 
 <p align="justify">C12. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models to be presented at <a href="https://confit.atlas.jp/guide/event/cmas2023/top?lang=en">CMAS-Asia-Pacific</a>, Japan, July 19-21, 2023.</p>
 
