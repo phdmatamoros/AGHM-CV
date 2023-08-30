@@ -58,7 +58,7 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 
 
-<p align="justify"><a href="https://atenea.esimecu.ipn.mx/">SoMeT 2024 Mexico-Cancun</a>, <a align="justify"><a href="https://www.ieaaie2024.com/">IEA/AIE 2024 Czech Republic-Hradec Kralove</a>, <a href="https://www.i-somet.org/">SoMeT 2021 Mexico-Cancun</a></p>
+<p align="justify"><a href="https://atenea.esimecu.ipn.mx/">SoMeT 2024 Mexico-Cancun</a>, <a align="justify"><a href="https://www.ieaaie2024.com/">IEA/AIE 2024 Czech Republic-Hradec Kralove</a>, <a href="https://www.i-somet.org/">SoMeT 2021 Mexico-Cancun</a>
 
 <h3>Publicity Chair</h3>
 <p align="justify"> <a href="https://jsasaki3.wixsite.com/somet2020">SoMeT 2020 Japan-Kytakyushu</a></p>
