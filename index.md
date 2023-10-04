@@ -72,11 +72,21 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 <p align="justify">Journals: <a href="https://www.journals.elsevier.com/knowledge-based-systems">Knowledge Based Systems</a>, <a href="https://www.springer.com/journal/10489">Applied Intelligence</a>, <a href="https://www.journals.elsevier.com/array">Array</a></p>
 <h3>Part-time Professor</h3>
 
+
+
+<!--
 <p align="justify"><a href="https://docencia.tic.unam.mx/cursos.php">National Autonomous University of Mexico-General Management of Computing and Information and Communication Technologies</a> (July 2017-December 2018) Imparting 1) Introduction to computing and Internet with Windows, 2) Computing with Word, Excel, PowerPoint and Internet.</p>
 <p align="justify"><a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a> (September 2017- March 2018) Imparting Algorithms and Data Structures.</p>
 <p align="justify"><a href="https://www.unitec.mx/">UNITEC</a> (May 2016-August-2016) Imparting System and Signal Analysis.</p>
 <p align="justify"><a href="https://www.uacm.edu.mx/">Autonomous University of Mexico City</a> (August 2014 - December 2014). Course on Digital Signal Processing.</p>
 <p align="justify"><a href="https://tecdemexico.edu.mx/">Technological School of Mexico</a> (August 2013 - July 2014). Imparting courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3, and Mathematics 4.</p>
+-->
+
+<p align="justify"><a href="https://docencia.tic.unam.mx/cursos.php">National Autonomous University of Mexico</a> (July 2017-December 2018) Imparting 1) Introduction to Introduction to Artificial Intelligence, Introduction to  Introduction to Data Science, Image Processing.</p>
+<p align="justify"><a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a> (September 2017- March 2018) Algorithms and Data Structures,Artificial Introduction to Artificial  Intelligence.</p>
+<p align="justify"><a href="https://www.unitec.mx/">UNITEC</a> (May 2016-August-2016) Imparting System and Signal Analysis.</p>
+<p align="justify"><a href="https://www.uacm.edu.mx/">Autonomous University of Mexico City</a> (August 2014 - December 2014). Course on Digital Signal Processing.</p>
+<p align="justify"><a href="https://tecdemexico.edu.mx/">Technological School of Mexico</a> (August 2013 - July 2014). Imparting courses in nformatics, Differential Calculus, Integral Calculus</p>
 
 <h2 id="journal-publications">Invited speaker</h2>
 <p align="justify"><a href="https://segcjournal.com/journal/webinars_detail/167">Webinar Medical Bid Data-Machine Learning</a> 2023/March/31.<a href="webinar2023.pdf">Certificate</a></p>
