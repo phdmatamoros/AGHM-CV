@@ -85,9 +85,9 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <h2 id="journal-publications">Journal Publications</h2>
 
-<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, "A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area", Under revision at Science of the Total Environment</p>
+<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, "A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area", Under revision at <a href="[CSSslides.pdf](https://www.sciencedirect.com/journal/science-of-the-total-environment)">Science of the Total Environment</a></p>
 
-<p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al.<a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under preparation to submit at SPE Journal, arxiv </p>
+<p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al.<a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under preparation to submit at <a href="https://onepetro.org/sj">SPE journal</a>, arxiv </p>
 
 <p align="justify">J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, <a href="https://doi.org/10.1016/j.ins.2021.01.069">Less complexity oneclass classification approach using construction error of convolutional image transformation network</a>,Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.</p>
 
