@@ -33,7 +33,7 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <h2 id="education">Education</h2>
 
-<p align="justify">2014 - 2018.<a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. Title of the Thesis "Facial Expression Recognition" <a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=141">Ph.D. on Communications and Electronics</a> (With Distinction).</p>
+<p align="justify">2014 - 2018.<a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City.<a href="DoctoralDissertation.pdf"">Title of the Thesis "Facial Expression Recognition"</a>,<a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=141">Ph.D. on Communications and Electronics</a> (With Distinction).</p>
 <p align="justify">2011 - 2013.<a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms" <a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=142">Master in Microelectronics Engineering</a>.</p>
 <p align="justify">2006 - 2011.<a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a>, Mexico City. <a href="http://die.izt.uam.mx/index.php/ingenieria-electronica/">Electronic Engineer</a>.</p>
 
@@ -85,7 +85,9 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <h2 id="journal-publications">Journal Publications</h2>
 
-<p align="justify">J7. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models under preparation</p>
+<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, "A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area", Under revision at Science of the Total Environment</p>
+
+<p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al.<a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under preparation to submit at SPE Journal, arxiv </p>
 
 <p align="justify">J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, <a href="https://doi.org/10.1016/j.ins.2021.01.069">Less complexity oneclass classification approach using construction error of convolutional image transformation network</a>,Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.</p>
 
@@ -100,6 +102,11 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 <p align="justify">J1. <u>Andres Hernandez-Matamoros</u>, Andrea Bonarini, Enrique Escamilla-Hernandez, Mariko NakanoMiyatake, Hector Perez-Meana, <a href="http://dx.doi.org/10.1016/j.knosys.2016.07.011">Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach</a>, Knowledge-Based Systems, (2016), ISSN 0950-7051.</p>
 
 <h2 id="conference-publications">Conference Publications</h2>
+
+<p align="justify">C14. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, "A Randomized Response Layer for Ensuring User Privacy in Synthetic Data Generation", Computer Security Symposium 2023</p>
+
+<p align="justify">C14.Santiago Galicia Edgar, Miyara Akio, <u>Andres Hernandez-Matamoros</u>, , 
+ <a href="https://pstnet.ca/">"機械学習による冷媒の熱伝達率予測"</a>, 第２３回西日本地区技術交流会 公益社団法人日本冷凍空調学会　西日本地区事業推進委員会</p>
 
 <p align="justify">C14. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, An Efficient Local Differential Privacy Scheme Using Bayesian Ridge Regression to be presented at <a href="https://pstnet.ca/">PST 2023</a>, Denmark, Copenhaguen, August 21-23, 2023. <a href="https://github.com/phdmatamoros/LDP-BRR">GitHub</a></p>
 
