@@ -95,7 +95,7 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <h2 id="journal-publications">Journal Publications</h2>
 
-<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">Ozone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>O, Science of The Total Environment, 2023, 169180, ISSN 0048-9697</p>
+<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">Ozone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>, Science of The Total Environment, 2023, 169180, ISSN 0048-9697</p>
 
 <p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al.<a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under preparation to submit at <a href="https://onepetro.org/sj">SPE journal</a>, arxiv </p>
 
