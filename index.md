@@ -36,8 +36,8 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 
 <p align="justify">2006 - 2011. <a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a>, Mexico City. <a href="http://die.izt.uam.mx/index.php/ingenieria-electronica/">Electronic Engineer</a>.</p>
-<p align="justify">2011 - 2013. <a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms" <a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=142">Master in Microelectronics Engineering</a>.</p>
-<p align="justify">2014 - 2018. <a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. Title of the Thesis: <a href="DoctoralDissertation.pdf">"Facial Expression Recognition"</a>,<a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=141">Ph.D. on Communications and Electronics</a> (With Distinction).</p>
+<p align="justify">2011 - 2013. <a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms"<a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=142">, Master in Microelectronics Engineering</a>.</p>
+<p align="justify">2014 - 2018. <a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. Title of the Thesis: <a href="DoctoralDissertation.pdf">"Facial Expression Recognition"</a>,<a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=141"> Ph.D. on Communications and Electronics</a> (With Distinction).</p>
 
 <h2 id="research-stays">Research stays</h2>
 
