@@ -92,7 +92,7 @@ Research in Anomaly Detection applying Deep learnig.</p>
 <p align="justify"><a href="https://www.unitec.mx/">UNITEC</a> (May 2016-August-2016)</p>
 <p align="justify"><a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a> (September 2017- March 2018)</p>
 <p align="justify"><a href="https://docencia.tic.unam.mx/cursos.php">National Autonomous University of Mexico</a> (July 2017-December 2018)</p>
-
+<p align="justify"><a href="https://www.imut.edu.cn/">Inner Mongolia University of Technology (IMUT)</a> (December 2023)</p>
 
 <h2 id="journal-publications">Invited speaker</h2>
 <p align="justify"><a href="https://ouni.enesjuriquilla.unam.mx/?page_id=3291https://ouni.enesjuriquilla.unam.mx/?page_id=3291">International Congress of Geoeconomic Engineering</a>, How to create synthetic biomedical signals using artificial neural networks. 2022/October/25.<a href="unam2023.pdf">Certificate [Spanish]</a></p>
@@ -159,7 +159,7 @@ doi: 10.1109/PST55820.2022.9851976</p>
 
 <p align="justify">C14. <u>A. Hernandez-Matamoros</u> and H. Kikuchi, <a href="https://www.computer.org/csdl/proceedings-article/pst/2023/10320150/1SjekTyrnpK">An Efficient Local Differential Privacy Scheme Using Bayesian Ridge Regression</a>, in 2023 20th Annual International Conference on Privacy, Security and Trust (PST), Copenhagen, Denmark, 2023 pp. 1-7.</p>
 
-<p align="justify">C15.Santiago Galicia Edgar, Miyara Akio, <u>Andres Hernandez-Matamoros</u>, 
+<p align="justify">C15. Santiago Galicia Edgar, Miyara Akio, <u>Andres Hernandez-Matamoros</u>, 
  <a href="Refrigerant_heat_transfer.pdf">"機械学習による冷媒の熱伝達率予測"</a>, 第２３回西日本地区技術交流会 公益社団法人日本冷凍空調学会　西日本地区事業推進委員会</p>
  
 <p align="justify">C16. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://cir.nii.ac.jp/crid/1050297969507822720">A Randomized Response Layer for Ensuring User Privacy in Synthetic Data Generation</a>, Computer Security Symposium 2023</p>
