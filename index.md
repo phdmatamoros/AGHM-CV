@@ -95,7 +95,7 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <h2 id="journal-publications">Journal Publications</h2>
 
-<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, "A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area", Under revision at <a href="https://www.sciencedirect.com/journal/science-of-the-total-environment">Science of the Total Environment</a></p>
+<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">zone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>O, Science of The Total Environment, 2023, 169180, ISSN 0048-9697</p>
 
 <p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al.<a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under preparation to submit at <a href="https://onepetro.org/sj">SPE journal</a>, arxiv </p>
 
@@ -113,12 +113,15 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <h2 id="conference-publications">Conference Publications</h2>
 
-<p align="justify">C16. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, "A Randomized Response Layer for Ensuring User Privacy in Synthetic Data Generation", Computer Security Symposium 2023</p>
+<p align="justify">C16. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://cir.nii.ac.jp/crid/1050297969507822720">A Randomized Response Layer for Ensuring User Privacy in Synthetic Data Generation</a>, Computer Security Symposium 2023</p>
+
+https://cir.nii.ac.jp/crid/1050297969507822720
+
 
 <p align="justify">C15.Santiago Galicia Edgar, Miyara Akio, <u>Andres Hernandez-Matamoros</u>, , 
  <a href="Refrigerant_heat_transfer.pdf">"機械学習による冷媒の熱伝達率予測"</a>, 第２３回西日本地区技術交流会 公益社団法人日本冷凍空調学会　西日本地区事業推進委員会</p>
 
-<p align="justify">C14. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, An Efficient Local Differential Privacy Scheme Using Bayesian Ridge Regression to be presented at <a href="https://pstnet.ca/">PST 2023</a>, Denmark, Copenhaguen, August 21-23, 2023. <a href="https://github.com/phdmatamoros/LDP-BRR">GitHub</a></p>
+<p align="justify">C14. <u>A. Hernandez-Matamoros</u> and H. Kikuchi, <a href="https://www.computer.org/csdl/proceedings-article/pst/2023/10320150/1SjekTyrnpK">An Efficient Local Differential Privacy Scheme Using Bayesian Ridge Regression</a>, in 2023 20th Annual International Conference on Privacy, Security and Trust (PST), Copenhagen, Denmark, 2023 pp. 1-7.</p>
 
 <p align="justify">C13. <u>Hernandez-Matamoros, A.</u>, , Kikuchi, H. (2023).<a href="https://link.springer.com/chapter/10.1007/978-3-031-39828-5_10">New LDP Approach Using VAE.</a>  In: Li, S., Manulis, M., Miyaji, A. (eds) Network and System Security. NSS 2023. Lecture Notes in Computer Science, vol 13983. Springer, Cham. https://doi.org/10.1007/978-3-031-39828-5_10 </p>
 
