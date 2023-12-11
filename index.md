@@ -56,7 +56,7 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 <p align="justify"><a href="https://www.iwate-pu.ac.jp/en/">Iwate Prefectural University</a> (January 2019 - October 2020). <a href="http://www.fujita.soft.iwate-pu.ac.jp/">Fujita Laboratory</a>. Research in Arrhythmia detection using Deep Learning.</p>
 <p align="justify"><a href="https://www.u-tokyo.ac.jp/en/">The University of Tokyo</a> (November 2020 - February 2022). <a href="https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/">Ocean Industrial Science, Technology &amp; Environmental Relations Lab.</a>
 Research in Anomaly Detection applying Deep learnig.</p>
-<p align="justify"><a href="https://www.meiji.ac.jp/">Meiji University</a> (March 2022- ). <ahref="https://www.kikn.fms.meiji.ac.jp/"> Kikuchi Lab.</a> Research in data privacy which is part of the project<a href="https://www.kikn.fms.meiji.ac.jp/Crest-AHC2022/index_e.html">"Anonymous healthcare cohort with the guarantee of data privacy and utility".</a></p>
+<p align="justify"><a href="https://www.meiji.ac.jp/">Meiji University</a> (March 2022- ). <a>href="https://www.kikn.fms.meiji.ac.jp/"> Kikuchi Lab.</a> Research in data privacy which is part of the project <a href="https://www.kikn.fms.meiji.ac.jp/Crest-AHC2022/index_e.html">"Anonymous healthcare cohort with the guarantee of data privacy and utility".</a></p>
 <h3>Guest Editor</h3>
 <p align="justify">Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/7PL611X05O">"Artificial Intelligence Technologies for Biomedicine and Healthcare Applications"</a></p>
 
@@ -89,9 +89,9 @@ Research in Anomaly Detection applying Deep learnig.</p>
 -->
 <p align="justify"><a href="https://tecdemexico.edu.mx/">Technological School of Mexico</a> (August 2013 - July 2014)</p>
 <p align="justify"><a href="https://www.uacm.edu.mx/">Autonomous University of Mexico City</a> (August 2014 - December 2014). </p>
-<p align="justify"><a href="https://www.unitec.mx/">UNITEC</a> (May 2016-August-2016)</p>
-<p align="justify"><a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a> (September 2017- March 2018)</p>
-<p align="justify"><a href="https://docencia.tic.unam.mx/cursos.php">National Autonomous University of Mexico</a> (July 2017-December 2018)</p>
+<p align="justify"><a href="https://www.unitec.mx/">UNITEC</a> (May 2016 - August 2016)</p>
+<p align="justify"><a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a> (September 2017 - March 2018)</p>
+<p align="justify"><a href="https://docencia.tic.unam.mx/cursos.php">National Autonomous University of Mexico</a> (July 2017 - December 2018)</p>
 <p align="justify"><a href="https://www.imut.edu.cn/">Inner Mongolia University of Technology (IMUT)</a> (December 2023)</p>
 
 <h2 id="journal-publications">Invited speaker</h2>
