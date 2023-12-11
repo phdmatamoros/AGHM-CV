@@ -15,7 +15,7 @@ Email:<a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>, <a href=
 Data Privacy, Machine Learning, Deep Learning, Image Processing, Anomaly Detection, Processing Digital Signals		
 	
 <h2 id="projects">Projects</h2>
-Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.07.011">Paper</a> <a href="https://www.youtube.com/watch?v=Dv2_z1TCIP4">Video</a><br>
+Facial Expression Recognition <a href="https://www.youtube.com/watch?v=Dv2_z1TCIP4">Video</a><br>
 <a href="https://doi.org/10.1007/s12652-019-01400-4">Skin detection</a><br>
 <a href="https://doi.org/10.1016/j.bbe.2020.02.007">Recognition of ECG Signals</a><br>
 <a href="https://phdmatamoros.github.io/BiRNN/">Creating synthetic biomedical signals</a><br>
