@@ -37,18 +37,18 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <p align="justify">2006 - 2011. <a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a>, Mexico City. <a href="http://die.izt.uam.mx/index.php/ingenieria-electronica/">Electronic Engineer</a>.</p>
 <p align="justify">2011 - 2013. <a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms" <a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=142">Master in Microelectronics Engineering</a>.</p>
-<p align="justify">2014 - 2018. <a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City.<a href="DoctoralDissertation.pdf">Title of the Thesis "Facial Expression Recognition"</a>,<a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=141">Ph.D. on Communications and Electronics</a> (With Distinction).</p>
+<p align="justify">2014 - 2018. <a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. <a href="DoctoralDissertation.pdf">Title of the Thesis "Facial Expression Recognition"</a>,<a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=141">Ph.D. on Communications and Electronics</a> (With Distinction).</p>
 
 <h2 id="research-stays">Research stays</h2>
 
-<p align="justify"><a href="https://www.polimi.it/en/">Polytechnic of Milan</a>, Milano Italy (October 2012 - March 2013) Research was conducted on facial expressions using OpenCV to detect the face, followed by the proposal of a machine learning technique to recognize the facial regions. Advisor <a href="https://bonarini.faculty.polimi.it/">Ph.D. Andrea Bonarini</a>.</p>
-<p align="justify"><a href="https://www.uec.ac.jp/">University of Electro-communications</a>, Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor <a href="http://www.rlg.sys.es.osaka-u.ac.jp/">Ph.D. Takayuki Nagai</a>.</p>
+<p align="justify"><a href="https://www.polimi.it/en/">Polytechnic of Milan</a>, Milano Italy (October 2012 - March 2013). Research was conducted on facial expressions using OpenCV to detect the face, followed by the proposal of a machine learning technique to recognize the facial regions. Advisor <a href="https://bonarini.faculty.polimi.it/">Ph.D. Andrea Bonarini</a>.</p>
+<p align="justify"><a href="https://www.uec.ac.jp/">University of Electro-communications</a>, Tokyo, Japan (April 2015 - March 2016). Recognition of facial expressions in the wild. Advisor <a href="http://www.rlg.sys.es.osaka-u.ac.jp/">Ph.D. Takayuki Nagai</a>.</p>
 
 <h2 id="other-courses">Other courses</h2>
 <p align="justify">Japanese University Studies in Science &amp; Technology (<a href="http://www.fedu.uec.ac.jp/en/future_students/jusst/">JUSST</a>) (April 2015 - March 2016).</p>
 
 <h2 id="industry-experience">Industry experience</h2>
-<p align="justify">Senior Consultant in Artificial Intelligent at <a href="https://mexico.praxisglobe.com/">Praxis(Mexico)</a> (April 2018 - December 2018) . I kept in touch with all areas at Praxis to apply AI in areas such as big data, healthcare, finance, etc. I was responsible for creating white papers and advising customers on how to apply AI.</p>
+<p align="justify">Senior Consultant in Artificial Intelligent at <a href="https://mexico.praxisglobe.com/">Praxis(Mexico)</a> (April 2018 - December 2018). I kept in touch with all areas at Praxis to apply AI in areas such as big data, healthcare, finance, etc. I was responsible for creating white papers and advising customers on how to apply AI.</p>
 <h2 id="academic-experience">Academic experience</h2>
 <h3>Postdoctoral Stay</h3>
 
@@ -56,7 +56,7 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 <p align="justify"><a href="https://www.iwate-pu.ac.jp/en/">Iwate Prefectural University</a> (January 2019 - October 2020). <a href="http://www.fujita.soft.iwate-pu.ac.jp/">Fujita Laboratory</a>. Research in Arrhythmia detection using Deep Learning.</p>
 <p align="justify"><a href="https://www.u-tokyo.ac.jp/en/">The University of Tokyo</a> (November 2020 - February 2022). <a href="https://oister-lab.edu.k.u-tokyo.ac.jp/top-japanese/">Ocean Industrial Science, Technology &amp; Environmental Relations Lab.</a>
 Research in Anomaly Detection applying Deep learnig.</p>
-<p align="justify"><a href="https://www.meiji.ac.jp/">Meiji University</a> (March 2022- ).<a href="https://www.kikn.fms.meiji.ac.jp/"> Kikuchi Lab.</a> Research in data privacy which is part of the project<a href="https://www.kikn.fms.meiji.ac.jp/Crest-AHC2022/index_e.html">"Anonymous healthcare cohort with the guarantee of data privacy and utility".</a></p>
+<p align="justify"><a href="https://www.meiji.ac.jp/">Meiji University</a> (March 2022- ). <ahref="https://www.kikn.fms.meiji.ac.jp/"> Kikuchi Lab.</a> Research in data privacy which is part of the project<a href="https://www.kikn.fms.meiji.ac.jp/Crest-AHC2022/index_e.html">"Anonymous healthcare cohort with the guarantee of data privacy and utility".</a></p>
 <h3>Guest Editor</h3>
 <p align="justify">Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/7PL611X05O">"Artificial Intelligence Technologies for Biomedicine and Healthcare Applications"</a></p>
 
