@@ -154,7 +154,7 @@ doi: 10.1109/PST55820.2022.9851976</p>
 
 <p align="justify">C12. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models to be presented at <a href="https://confit.atlas.jp/guide/event/cmas2023/top?lang=en">CMAS-Asia-Pacific</a>, Japan, July 19-21, 2023.</p>
 
-<p align="justify">C13. <u>Hernandez-Matamoros, A.</u>, , Kikuchi, H. (2023)., <a href="https://link.springer.com/chapter/10.1007/978-3-031-39828-5_10">New LDP Approach Using VAE.</a>  In: Li, S., Manulis, M., Miyaji, A. (eds) Network and System Security. NSS 2023. Lecture Notes in Computer Science, vol 13983. Springer, Cham. https://doi.org/10.1007/978-3-031-39828-5_10 </p>
+<p align="justify">C13. <u>Hernandez-Matamoros, A.</u>, , Kikuchi, H. (2023), <a href="https://link.springer.com/chapter/10.1007/978-3-031-39828-5_10">New LDP Approach Using VAE.</a>  In: Li, S., Manulis, M., Miyaji, A. (eds) Network and System Security. NSS 2023. Lecture Notes in Computer Science, vol 13983. Springer, Cham. https://doi.org/10.1007/978-3-031-39828-5_10 </p>
 
 
 <p align="justify">C14. <u>A. Hernandez-Matamoros</u> and H. Kikuchi, <a href="https://www.computer.org/csdl/proceedings-article/pst/2023/10320150/1SjekTyrnpK">An Efficient Local Differential Privacy Scheme Using Bayesian Ridge Regression</a>, in 2023 20th Annual International Conference on Privacy, Security and Trust (PST), Copenhagen, Denmark, 2023 pp. 1-7.</p>
