@@ -8,7 +8,7 @@
 <a href="https://www.researchgate.net/profile/Andres-Hernandez-Matamoros">Research Gate</a>,
 <a href="https://www.scopus.com/authid/detail.uri?authorId=56646446200">Scopus</a>,
 <a href="https://researchmap.jp/matamoros?lang=en">Research Map</a><br>
-Email:<a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>,<a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>
+Email:<a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>, <a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>
 						
 			
 <h2 id="areas-of-interest">Areas of interest</h2>
@@ -35,9 +35,9 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 
 
-<p align="justify">2006 - 2011.<a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a>, Mexico City. <a href="http://die.izt.uam.mx/index.php/ingenieria-electronica/">Electronic Engineer</a>.</p>
-<p align="justify">2011 - 2013.<a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms" <a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=142">Master in Microelectronics Engineering</a>.</p>
-<p align="justify">2014 - 2018.<a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City.<a href="DoctoralDissertation.pdf">Title of the Thesis "Facial Expression Recognition"</a>,<a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=141">Ph.D. on Communications and Electronics</a> (With Distinction).</p>
+<p align="justify">2006 - 2011. <a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a>, Mexico City. <a href="http://die.izt.uam.mx/index.php/ingenieria-electronica/">Electronic Engineer</a>.</p>
+<p align="justify">2011 - 2013. <a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City. Title of the Thesis: "Optimization and Application of Unsupervised Learning Algorithms" <a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=20&amp;Itemid=142">Master in Microelectronics Engineering</a>.</p>
+<p align="justify">2014 - 2018. <a href="https://www.ipn.mx/">National Polytechnic Institute</a>, Mexico City.<a href="DoctoralDissertation.pdf">Title of the Thesis "Facial Expression Recognition"</a>,<a href="https://posgrados.esimecu.ipn.mx/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=17&amp;Itemid=141">Ph.D. on Communications and Electronics</a> (With Distinction).</p>
 
 <h2 id="research-stays">Research stays</h2>
 
