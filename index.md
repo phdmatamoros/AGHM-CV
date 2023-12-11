@@ -95,8 +95,8 @@ Research in Anomaly Detection applying Deep learnig.</p>
 <p align="justify"><a href="https://www.imut.edu.cn/">Inner Mongolia University of Technology (IMUT)</a> (December 2023)</p>
 
 <h2 id="journal-publications">Invited speaker</h2>
-<p align="justify"><a href="https://ouni.enesjuriquilla.unam.mx/?page_id=3291https://ouni.enesjuriquilla.unam.mx/?page_id=3291">International Congress of Geoeconomic Engineering</a>, How to create synthetic biomedical signals using artificial neural networks. 2022/October/25.<a href="unam2023.pdf">Certificate [Spanish]</a></p>
-<p align="justify"><a href="https://segcjournal.com/journal/webinars_detail/167">Webinar Medical Bid Data-Machine Learning</a> 2023/March/31.<a href="webinar2023.pdf">Certificate</a></p>
+<p align="justify"><a href="https://ouni.enesjuriquilla.unam.mx/?page_id=3291https://ouni.enesjuriquilla.unam.mx/?page_id=3291">International Congress of Geoeconomic Engineering</a>, How to create synthetic biomedical signals using artificial neural networks. 2022/October/25. <a href="unam2023.pdf">Certificate [Spanish]</a></p>
+<p align="justify"><a href="https://segcjournal.com/journal/webinars_detail/167">Webinar Medical Bid Data-Machine Learning</a> 2023/March/31. <a href="webinar2023.pdf">Certificate</a></p>
 
 
 
