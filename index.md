@@ -15,13 +15,13 @@ Email:<a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>,<a href="
 Data Privacy, Machine Learning, Deep Learning, Image Processing, Anomaly Detection, Processing Digital Signals		
 	
 <h2 id="projects">Projects</h2>
-<a href="https://github.com/phdmatamoros/New-LDP-approach-using-VAE">Data Privacy using VAE</a><br>
-<a href="https://phdmatamoros.github.io/StuckDetection/">Anomaly Detection</a><br>
-<a href="https://doi.org/10.1016/j.asoc.2020.106610">Forecasting of Covid-19</a><br>
-<a href="https://phdmatamoros.github.io/BiRNN/">Creating synthetic biomedical signals</a><br>
-<a href="https://doi.org/10.1016/j.bbe.2020.02.007">Recognition of ECG Signals</a><br>
-<a href="https://doi.org/10.1007/s12652-019-01400-4">Skin detection</a><br>
 Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.07.011">Paper</a> <a href="https://www.youtube.com/watch?v=Dv2_z1TCIP4">Video</a>
+<a href="https://doi.org/10.1007/s12652-019-01400-4">Skin detection</a><br>
+<a href="https://doi.org/10.1016/j.bbe.2020.02.007">Recognition of ECG Signals</a><br>
+<a href="https://phdmatamoros.github.io/BiRNN/">Creating synthetic biomedical signals</a><br>
+<a href="https://doi.org/10.1016/j.asoc.2020.106610">Forecasting of Covid-19</a><br>
+<a href="https://phdmatamoros.github.io/StuckDetection/">Anomaly Detection</a><br>
+<a href="https://github.com/phdmatamoros/New-LDP-approach-using-VAE">Data Privacy using VAE</a><br>
 
 <h2 id="distinctions">Distinctions</h2>
 
@@ -74,7 +74,7 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 
 <h3>Reviewer</h3>
-<p align="justify">Conferences: <a href="http://p-www.iwate-pu.ac.jp/~jsasaki/SOMET2017/SOMET2017.pdf">SoMeT 2017</a>, <a href="https://ieeecomputer.my/somet2019/">SoMeT2019</a>, <a href="https://jsasaki3.wixsite.com/somet2020">SoMeT 2020</a>, <a href="https://atenea.esimecu.ipn.mx/">SoMeT 2021</a>,<a href="https://www.somet2022.com/">SoMeT 2022</a>,<a href="http://www.impianti.unina.it/somet2023/">SoMeT 2023</a></p>
+<p align="justify">Conferences: <a href="http://p-www.iwate-pu.ac.jp/~jsasaki/SOMET2017/SOMET2017.pdf">SoMeT 2017</a>, <a href="https://ieeecomputer.my/somet2019/">SoMeT2019</a>, <a href="https://jsasaki3.wixsite.com/somet2020">SoMeT 2020</a>, <a href="https://atenea.esimecu.ipn.mx/">SoMeT 2021</a>, <a href="https://www.somet2022.com/">SoMeT 2022</a>, <a href="http://www.impianti.unina.it/somet2023/">SoMeT 2023</a></p>
 <p align="justify">Journals: <a href="https://www.journals.elsevier.com/knowledge-based-systems">Knowledge Based Systems</a>, <a href="https://www.springer.com/journal/10489">Applied Intelligence</a>, <a href="https://www.journals.elsevier.com/array">Array</a></p>
 <h3>Part-time Professor</h3>
 
