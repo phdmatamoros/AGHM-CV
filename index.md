@@ -41,8 +41,9 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <h2 id="research-stays">Research stays</h2>
 
+<p align="justify"><a href="https://www.polimi.it/en/">Polytechnic of Milan</a>, Milano Italy (October 2012 - March 2013) Research was conducted on facial expressions using OpenCV to detect the face, followed by the proposal of a machine learning technique to recognize the facial regions. Advisor <a href="https://bonarini.faculty.polimi.it/">Ph.D. Andrea Bonarini</a>.</p>
 <p align="justify"><a href="https://www.uec.ac.jp/">University of Electro-communications</a>, Tokyo, Japan (April 2015 - March 2016) Recognition of facial expressions in the wild. Advisor <a href="http://www.rlg.sys.es.osaka-u.ac.jp/">Ph.D. Takayuki Nagai</a>.</p>
-<p align="justify"><a href="https://www.polimi.it/en/">Polytechnic of Milan</a>, Milano Italy (October 2012 - March 2013) Research was conducted on facial expressions using OpenCV to detect the face, followed by the proposal of a machine learning technique to recognize the facial regions.. Advisor <a href="https://bonarini.faculty.polimi.it/">Ph.D. Andrea Bonarini</a>.</p>
+
 <h2 id="other-courses">Other courses</h2>
 <p align="justify">Japanese University Studies in Science &amp; Technology (<a href="http://www.fedu.uec.ac.jp/en/future_students/jusst/">JUSST</a>) (April 2015 - March 2016).</p>
 
@@ -86,12 +87,12 @@ Research in Anomaly Detection applying Deep learnig.</p>
 <p align="justify"><a href="https://www.uacm.edu.mx/">Autonomous University of Mexico City</a> (August 2014 - December 2014). Course on Digital Signal Processing.</p>
 <p align="justify"><a href="https://tecdemexico.edu.mx/">Technological School of Mexico</a> (August 2013 - July 2014). Imparting courses in Physics 1, Physics 2, Informatics 1, Informatics 2, Differential Calculus, Integral Calculus, Mathematics 1, Mathematics 2, Mathematics 3, and Mathematics 4.</p>
 -->
+<p align="justify"><a href="https://tecdemexico.edu.mx/">Technological School of Mexico</a> </p>
+<p align="justify"><a href="https://www.uacm.edu.mx/">Autonomous University of Mexico City</a> (August 2014 - December 2014). </p>
+<p align="justify"><a href="https://www.unitec.mx/">UNITEC</a> (May 2016-August-2016)</p>
+<p align="justify"><a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a> (September 2017- March 2018)</p>
+<p align="justify"><a href="https://docencia.tic.unam.mx/cursos.php">National Autonomous University of Mexico</a> (July 2017-December 2018</p>
 
-<p align="justify"><a href="https://docencia.tic.unam.mx/cursos.php">National Autonomous University of Mexico</a> (July 2017-December 2018) Imparting 1) Introduction to Introduction to Artificial Intelligence, Introduction to  Introduction to Data Science, Image Processing.</p>
-<p align="justify"><a href="https://www.uam.mx/lang/eng/index.html">Autonomous Metropolitan University</a> (September 2017- March 2018) Algorithms and Data Structures,Artificial Introduction to Artificial  Intelligence.</p>
-<p align="justify"><a href="https://www.unitec.mx/">UNITEC</a> (May 2016-August-2016) Imparting System and Signal Analysis.</p>
-<p align="justify"><a href="https://www.uacm.edu.mx/">Autonomous University of Mexico City</a> (August 2014 - December 2014). Course on Digital Signal Processing.</p>
-<p align="justify"><a href="https://tecdemexico.edu.mx/">Technological School of Mexico</a> (August 2013 - July 2014). Imparting courses in nformatics, Differential Calculus, Integral Calculus</p>
 
 <h2 id="journal-publications">Invited speaker</h2>
 <p align="justify"><a href="https://segcjournal.com/journal/webinars_detail/167">Webinar Medical Bid Data-Machine Learning</a> 2023/March/31.<a href="webinar2023.pdf">Certificate</a></p>
@@ -100,21 +101,29 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 <h2 id="journal-publications">Journal Publications</h2>
 
-<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">Ozone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>, Science of The Total Environment, 2023, 169180, ISSN 0048-9697</p>
-
-<p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al.<a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under preparation to submit at <a href="https://onepetro.org/sj">SPE journal</a>, arxiv </p>
-
-<p align="justify">J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, <a href="https://doi.org/10.1016/j.ins.2021.01.069">Less complexity oneclass classification approach using construction error of convolutional image transformation network</a>,Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.</p>
-
-<p align="justify">J5. <u>Hernandez-Matamoros, A.</u>, Toshitaka H., Fujita, H., Hector Perez-Meana, <a href="https://doi.org/10.1016/j.asoc.2020.106610">Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions</a>, Applied Soft Computing, Volume 96, 11-2020, 106610, ISSN 1568-4946.</p>
-
-<p align="justify">J4. <u>Hernandez-Matamoros, A.</u>, Fujita, H., &amp; Perez-Meana, H. (2020). <a href="https://www.sciencedirect.com/science/article/pii/S0020025520306071">A novel approach to create synthetic biomedical signals using BiRNN</a>, Information Sciences, Volume 541, Pages 218-241, ISSN 0020-0255, (12-2020).</p>
-
-<p align="justify">J3. <u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. <a href="https://doi.org/10.1016/j.bbe.2020.02.007">Recognition of ECG Signals Using Wavelet Based on Atomic Functions</a>,Journal Biocybernetics and Biomedical Engineering, Volume 40, Issue 2, Pages 803-814, (04-2020).</p>
+<p align="justify">J1. <u>Andres Hernandez-Matamoros</u>, Andrea Bonarini, Enrique Escamilla-Hernandez, Mariko NakanoMiyatake, Hector Perez-Meana, <a href="http://dx.doi.org/10.1016/j.knosys.2016.07.011">Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach</a>, Knowledge-Based Systems, (2016), ISSN 0950-7051.</p>
 
 <p align="justify">J2. <u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. <a href="https://doi.org/10.1007/s12652-019-01400-4">Scheme fuzzy approach to classify skin tonalities through geographic distribution</a>, J. Ambient Intell Human Comput, 11, 2859-2870 (07-2019).</p>
 
-<p align="justify">J1. <u>Andres Hernandez-Matamoros</u>, Andrea Bonarini, Enrique Escamilla-Hernandez, Mariko NakanoMiyatake, Hector Perez-Meana, <a href="http://dx.doi.org/10.1016/j.knosys.2016.07.011">Facial expression recognition with automatic segmentation of face regions using a fuzzy based classification approach</a>, Knowledge-Based Systems, (2016), ISSN 0950-7051.</p>
+<p align="justify">J3. <u>Hernandez-Matamoros, A.</u>, Fujita, H., Nakano-Miyatake, M. et al. <a href="https://doi.org/10.1016/j.bbe.2020.02.007">Recognition of ECG Signals Using Wavelet Based on Atomic Functions</a>,Journal Biocybernetics and Biomedical Engineering, Volume 40, Issue 2, Pages 803-814, (04-2020).</p>
+
+<p align="justify">J4. <u>Hernandez-Matamoros, A.</u>, Fujita, H., &amp; Perez-Meana, H. (2020). <a href="https://www.sciencedirect.com/science/article/pii/S0020025520306071">A novel approach to create synthetic biomedical signals using BiRNN</a>, Information Sciences, Volume 541, Pages 218-241, ISSN 0020-0255, (12-2020).</p>
+
+<p align="justify">J5. <u>Hernandez-Matamoros, A.</u>, Toshitaka H., Fujita, H., Hector Perez-Meana, <a href="https://doi.org/10.1016/j.asoc.2020.106610">Forecasting of COVID19 per regions using ARIMA models and Polynomial Functions</a>, Applied Soft Computing, Volume 96, 11-2020, 106610, ISSN 1568-4946.</p>
+
+<p align="justify">J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, <a href="https://doi.org/10.1016/j.ins.2021.01.069">Less complexity oneclass classification approach using construction error of convolutional image transformation network</a>,Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.</p>
+
+<p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al.<a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under preparation to submit at <a href="https://onepetro.org/sj">SPE journal</a>, arxiv </p>
+
+<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">Ozone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>, Science of The Total Environment, 2023, 169180, ISSN 0048-9697</p>
+
+
+
+
+
+
+
+
 
 <h2 id="conference-publications">Conference Publications</h2>
 
