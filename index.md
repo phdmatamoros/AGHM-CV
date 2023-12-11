@@ -115,9 +115,6 @@ Facial Expression Recognition <a href="http://dx.doi.org/10.1016/j.knosys.2016.0
 
 <p align="justify">C16. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://cir.nii.ac.jp/crid/1050297969507822720">A Randomized Response Layer for Ensuring User Privacy in Synthetic Data Generation</a>, Computer Security Symposium 2023</p>
 
-https://cir.nii.ac.jp/crid/1050297969507822720
-
-
 <p align="justify">C15.Santiago Galicia Edgar, Miyara Akio, <u>Andres Hernandez-Matamoros</u>, , 
  <a href="Refrigerant_heat_transfer.pdf">"機械学習による冷媒の熱伝達率予測"</a>, 第２３回西日本地区技術交流会 公益社団法人日本冷凍空調学会　西日本地区事業推進委員会</p>
 
