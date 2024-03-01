@@ -8,6 +8,7 @@
 <a href="https://www.researchgate.net/profile/Andres-Hernandez-Matamoros">Research Gate</a>,
 <a href="https://www.scopus.com/authid/detail.uri?authorId=56646446200">Scopus</a>,
 <a href="https://researchmap.jp/matamoros?lang=en">Research Map</a><br>
+<a href="https://sciprofiles.com/profile/2652034">SciProfiles</a><br>
 Email:<a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>, <a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>
 						
 			
