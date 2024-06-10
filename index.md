@@ -121,7 +121,11 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 <p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">Ozone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>, Science of The Total Environment, 2023, 169180, ISSN 0048-9697</p>
 
-<p align="justify">J9. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, Comparative Analysis of Local Differential Privacy Schemes in Healthcare Datasets, submitted at <a href="https://www.mdpi.com/journal/applsci/special_issues/L6E5QSMCSF">Applied Sciences Special Issue Data Privacy and Security for Information Engineering</a></p>
+<p align="justify">J9. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://www.mdpi.com/2076-3417/14/7/2864">Comparative Analysis of Local Differential Privacy Schemes in Healthcare Datasets</a>, Appl. Sci. 2024, 14, 2864. https://doi.org/10.3390/app14072864
+
+
+	
+	submitted at <a href="https://www.mdpi.com/journal/applsci/special_issues/L6E5QSMCSF">Applied Sciences Special Issue Data Privacy and Security for Information Engineering</a></p>
 
 
 
