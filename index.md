@@ -124,11 +124,6 @@ Research in Anomaly Detection applying Deep learnig.</p>
 <p align="justify">J9. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://www.mdpi.com/2076-3417/14/7/2864">Comparative Analysis of Local Differential Privacy Schemes in Healthcare Datasets</a>, Appl. Sci. 2024, 14, 2864. https://doi.org/10.3390/app14072864.
 
 
-	
-	submitted at <a href="https://www.mdpi.com/journal/applsci/special_issues/L6E5QSMCSF">Applied Sciences Special Issue Data Privacy and Security for Information Engineering</a></p>
-
-
-
 <h2 id="conference-publications">Conference Publications</h2>
 
 <p align="justify">C1. <u>Andres Gerardo Hernandez Matamoros</u>, Hector Manuel Perez Meana, Enrique Escamilla Hernandez, <a href="pachuca.pdf">Object Learning using images from the Internet through Unsupervised Learning</a>, SIMCI 2013.</p>
@@ -170,7 +165,7 @@ doi: 10.1109/PST55820.2022.9851976.</p>
 <p align="justify">C17. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://atenea.esimecu.ipn.mx/">Meaningful performance analysis on Healthcare Data under Local Differential Privacy</a>, to be presented at SOMET 2024.</p>
 
 <p align="justify">C18. Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., 2024.
-<a href="https://doi.org/10.1088/1742-6596/2766/1/01215">Prediction of heat transfer coefficient and pressure drop of flow boiling and condensation using machine learning</a>, Journal of Physics: Conference Series 2766, 012152. URL: https://dx.doi. org/10.1088/1742-6596/2766/1/012152, https://doi.org/10.1088/1742-6596/2766/1/012152.</p>
+<a href="https://doi.org/10.1088/1742-6596/2766/1/01215">Prediction of heat transfer coefficient and pressure drop of flow boiling and condensation using machine learning</a>, Journal of Physics: Conference Series 2766, 012152. URL: https://dx.doi.org/10.1088/1742-6596/2766/1/012152, https://doi.org/10.1088/1742-6596/2766/1/012152.</p>
 
 
 <h2 id="languages">Languages</h2>
