@@ -117,11 +117,11 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 <p align="justify">J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, <a href="https://doi.org/10.1016/j.ins.2021.01.069">Less complexity oneclass classification approach using construction error of convolutional image transformation network</a>,Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.</p>
 
-<p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al., <a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under revision at <a href="https://onepetro.org/sj">SPE journal</a></p>
+<p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al., <a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under revision at <a href="https://onepetro.org/sj">SPE journal.</a></p>
 
-<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">Ozone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>, Science of The Total Environment, 2023, 169180, ISSN 0048-9697</p>
+<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">Ozone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>, Science of The Total Environment, 2023, 169180, ISSN 0048-9697.</p>
 
-<p align="justify">J9. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://www.mdpi.com/2076-3417/14/7/2864">Comparative Analysis of Local Differential Privacy Schemes in Healthcare Datasets</a>, Appl. Sci. 2024, 14, 2864. https://doi.org/10.3390/app14072864
+<p align="justify">J9. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://www.mdpi.com/2076-3417/14/7/2864">Comparative Analysis of Local Differential Privacy Schemes in Healthcare Datasets</a>, Appl. Sci. 2024, 14, 2864. https://doi.org/10.3390/app14072864.
 
 
 	
@@ -150,22 +150,27 @@ Research in Anomaly Detection applying Deep learnig.</p>
 <p align="justify">C9. <u>Hernandez-Matamoros, A.</u>, Fujita, &amp; Perez-Meana, H., <a href="https://ebooks.iospress.nl/volumearticle/55482">Heart Beat Recognition using a novel preprocessing scheme and Neural Networks</a>, pp. 162-172, Frontiers in Artificial Intelligence and Applications; Volume 327: Knowledge Innovation Through Intelligent Software Methodologies, Tools and Techniques, DOI 10.3233/FAIA200562.</p>
 
 <p align="justify">C10. H. Kikuchi, S. Miyoshi, T. Mori and <u>A. Hernandez-Matamoros</u>, <a href="https://www.computer.org/csdl/proceedings-article/pst/2022/09851976/1FWmlNTorfy">A Vulnerability in Video Anonymization - Privacy Disclosure from Face-obfuscated video</a>, in 2022 19th Annual International Conference on Privacy, Security &amp; Trust (PST), Fredericton, NB, Canada, 2022 pp. 1-10.
-doi: 10.1109/PST55820.2022.9851976</p>
+doi: 10.1109/PST55820.2022.9851976.</p>
 
 <p align="justify">C11. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=223096&amp;item_no=1&amp;page_id=13&amp;block_id=8">Risk Evaluation of LDP scheme LoPub against Variational Autoencoder</a>,Computer Security Symposium 2022, pp. 289-296, 2022.</p>
 
 
 <p align="justify">C12. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hatab, Kazuya Inoueb, Kenichi Tonokura, Evaluation of Ozone Responses to Feasible Reduction Goals in Precursor Emissions in the Mexico City Metropolitan Area Using Air Quality Models to be presented at <a href="https://confit.atlas.jp/guide/event/cmas2023/top?lang=en">CMAS-Asia-Pacific</a>, Japan, July 19-21, 2023.</p>
 
-<p align="justify">C13. <u>Hernandez-Matamoros, A.</u>, , Kikuchi, H. (2023), <a href="https://link.springer.com/chapter/10.1007/978-3-031-39828-5_10">New LDP Approach Using VAE.</a>  In: Li, S., Manulis, M., Miyaji, A. (eds) Network and System Security. NSS 2023. Lecture Notes in Computer Science, vol 13983. Springer, Cham. https://doi.org/10.1007/978-3-031-39828-5_10 </p>
+<p align="justify">C13. <u>Hernandez-Matamoros, A.</u>, , Kikuchi, H. (2023), <a href="https://link.springer.com/chapter/10.1007/978-3-031-39828-5_10">New LDP Approach Using VAE.</a>  In: Li, S., Manulis, M., Miyaji, A. (eds) Network and System Security. NSS 2023. Lecture Notes in Computer Science, vol 13983. Springer, Cham. https://doi.org/10.1007/978-3-031-39828-5_10.</p>
 
 
 <p align="justify">C14. <u>A. Hernandez-Matamoros</u> and H. Kikuchi, <a href="https://www.computer.org/csdl/proceedings-article/pst/2023/10320150/1SjekTyrnpK">An Efficient Local Differential Privacy Scheme Using Bayesian Ridge Regression</a>, in 2023 20th Annual International Conference on Privacy, Security and Trust (PST), Copenhagen, Denmark, 2023 pp. 1-7.</p>
 
 <p align="justify">C15. Santiago Galicia Edgar, Miyara Akio, <u>Andres Hernandez-Matamoros</u>, 
- <a href="Refrigerant_heat_transfer.pdf">"機械学習による冷媒の熱伝達率予測"</a>, 第２３回西日本地区技術交流会 公益社団法人日本冷凍空調学会　西日本地区事業推進委員会</p>
+ <a href="Refrigerant_heat_transfer.pdf">"機械学習による冷媒の熱伝達率予測"</a>, 第２３回西日本地区技術交流会 公益社団法人日本冷凍空調学会　西日本地区事業推進委員会.</p>
  
-<p align="justify">C16. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://cir.nii.ac.jp/crid/1050297969507822720">A Randomized Response Layer for Ensuring User Privacy in Synthetic Data Generation</a>, Computer Security Symposium 2023</p>
+<p align="justify">C16. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://cir.nii.ac.jp/crid/1050297969507822720">A Randomized Response Layer for Ensuring User Privacy in Synthetic Data Generation</a>, Computer Security Symposium 2023.</p>
+
+<p align="justify">C17. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://atenea.esimecu.ipn.mx/">Meaningful performance analysis on Healthcare Data under Local Differential Privacy</a>, to be presented at SOMET 2024.</p>
+
+<p align="justify">C18. Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., 2024.
+<a href="https://doi.org/10.1088/1742-6596/2766/1/01215">Prediction of heat transfer coefficient and pressure drop of flow boiling and condensation using machine learning</a>, Journal of Physics: Conference Series 2766, 012152. URL: https://dx.doi. org/10.1088/1742-6596/2766/1/012152, https://doi.org/10.1088/1742-6596/2766/1/012152.</p>
 
 
 <h2 id="languages">Languages</h2>
