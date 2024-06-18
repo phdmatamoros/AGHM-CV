@@ -169,7 +169,7 @@ doi: 10.1109/PST55820.2022.9851976.</p>
 <p align="justify"> C18.<a href="https://atenea.esimecu.ipn.mx/">Meaningful performance analysis on Healthcare Data under Local Differential Privacy</a>, to be presented at SOMET 2024.</p>
 
 <p align="justify">C19. Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., 2024.
-<a href="https://doi.org/10.1088/1742-6596/2766/1/01215">Prediction of heat transfer coefficient and pressure drop of flow boiling and condensation using machine learning</a>, Journal of Physics: Conference Series 2766, 012152. URL: https://dx.doi.org/10.1088/1742-6596/2766/1/012152, https://doi.org/10.1088/1742-6596/2766/1/012152.</p>
+<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2766/1/012152/meta">Prediction of heat transfer coefficient and pressure drop of flow boiling and condensation using machine learning</a>, Journal of Physics: Conference Series 2766, 012152. URL: https://dx.doi.org/10.1088/1742-6596/2766/1/012152, https://doi.org/10.1088/1742-6596/2766/1/012152.</p>
 
 
 <h2 id="languages">Languages</h2>
