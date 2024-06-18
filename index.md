@@ -123,6 +123,8 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 <p align="justify">J9. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://www.mdpi.com/2076-3417/14/7/2864">Comparative Analysis of Local Differential Privacy Schemes in Healthcare Datasets</a>, Appl. Sci. 2024, 14, 2864. https://doi.org/10.3390/app14072864.
 
+<h2 id="books">Books</h2>
+<p align="justify">B1. Fujita, H., Cimler, R., <u>Hernandez-Matamoros A.</u>, & Ali, M. (Eds.). (2024). <a href="https://link.springer.com/book/9789819746767">Advances and Trends in Artificial Intelligence. Theory and Applications: 37th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems</a>, IEA/AIE 2024, Hradec Kralove, Czech Republic, July 10–12, 2024, Proceedings. Springer Singapore. https://doi.org/10.1007/978-981-97-4677-4
 
 <h2 id="conference-publications">Conference Publications</h2>
 
