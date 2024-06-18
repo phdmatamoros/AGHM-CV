@@ -77,7 +77,9 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 
 <h3>Reviewer</h3>
-<p align="justify">Conferences: <a href="http://p-www.iwate-pu.ac.jp/~jsasaki/SOMET2017/SOMET2017.pdf">SoMeT 2017</a>, <a href="https://ieeecomputer.my/somet2019/">SoMeT2019</a>, <a href="https://jsasaki3.wixsite.com/somet2020">SoMeT 2020</a>, <a href="https://atenea.esimecu.ipn.mx/">SoMeT 2021</a>, <a href="https://www.somet2022.com/">SoMeT 2022</a>, <a href="http://www.impianti.unina.it/somet2023/">SoMeT 2023</a>, <a href="https://atenea.esimecu.ipn.mx/">SoMeT 2024</a></p>
+<p align="justify">Conferences: <a href="http://p-www.iwate-pu.ac.jp/~jsasaki/SOMET2017/SOMET2017.pdf">SoMeT 2017</a>, <a href="https://ieeecomputer.my/somet2019/">SoMeT2019</a>, <a href="https://jsasaki3.wixsite.com/somet2020">SoMeT 2020</a>, <a href="https://atenea.esimecu.ipn.mx/">SoMeT 2021</a>, <a href="https://www.somet2022.com/">SoMeT 2022</a>, <a href="http://www.impianti.unina.it/somet2023/">SoMeT 2023</a>, 
+<a href="https://www.ieaaie2024.com/">IEA/AIE 2024</a>,
+	<a href="https://atenea.esimecu.ipn.mx/">SoMeT 2024</a></p>
 <p align="justify">Journals: 
 <a href="https://www.nature.com/srep/">Scientific Reports</a>,
 <a href="https://www.journals.elsevier.com/knowledge-based-systems">Knowledge Based Systems</a>, <a href="https://www.springer.com/journal/10489">Applied Intelligence</a>, <a href="https://www.journals.elsevier.com/array">Array</a>,  
