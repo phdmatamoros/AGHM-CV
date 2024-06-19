@@ -183,10 +183,16 @@ doi: 10.1109/PST55820.2022.9851976.</p>
 
 <p align="justify">C17. 菊池浩明, <u>Andres Hernandez-Matamoros</u>, 福山啓太, <a href="https://www.ipsj.or.jp/kenkyukai/event/csec106spt56.html">ポリファーマシーの差分プライベートなリスク因子分析</a>, to be presented at CSEC 2024.</p>
 	
-<p align="justify"> C18. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://atenea.esimecu.ipn.mx/">Meaningful performance analysis on Healthcare Data under Local Differential Privacy</a>, to be presented at SOMET 2024.</p>
-
-<p align="justify">C19. Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., 2024.
+<p align="justify">C18. Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., 2024.
 <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2766/1/012152/meta">Prediction of heat transfer coefficient and pressure drop of flow boiling and condensation using machine learning</a>, Journal of Physics: Conference Series 2766, 012152. URL: https://dx.doi.org/10.1088/1742-6596/2766/1/012152, https://doi.org/10.1088/1742-6596/2766/1/012152.</p>
+
+
+<p align="justify"> C19. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://atenea.esimecu.ipn.mx/">Meaningful performance analysis on Healthcare Data under Local Differential Privacy</a>, to be presented at SOMET 2024.</p>
+
+<p align="justify"> C20.Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., <a href="https://atenea.esimecu.ipn.mx/">Machine learning-based approach to correct saturated flow boiling heat transfer correlations</a>, to be presented at SOMET 2024.</p>
+
+
+
 
 
 <h2 id="languages">Languages</h2>
