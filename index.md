@@ -66,7 +66,7 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 <h3>Organizing Chair</h3>
 
-<a href="https://www.i-somet.org/">SoMeT 2021 Mexico-Cancun</a>
+<a href="https://www.i-somet.org/">SoMeT 2021 Mexico-Cancun</a></p>
 
 <h3>Program Chair</h3>
 <p align="justify"><a href="https://atenea.esimecu.ipn.mx/">SoMeT 2024 Mexico-Cancun</a>, <a align="justify"><a href="https://www.ieaaie2024.com/">IEA/AIE 2024 Czech Republic-Hradec Kralove</a>
