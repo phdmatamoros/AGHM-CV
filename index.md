@@ -189,7 +189,8 @@ doi: 10.1109/PST55820.2022.9851976.</p>
 <h2 id="languages">Languages</h2>
 <p>English:  spoken 90 % written 90%<br>
 Italian:  spoken 25 % written 25%<br>
-Japanese: spoken 10 % written 10%<br></p>
+Japanese: spoken 10 % written 10%<br>
+Spanish: Native/Mother tongue <p>
 
 <h2 id="skills">Skills</h2>
 
