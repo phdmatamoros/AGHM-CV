@@ -59,7 +59,10 @@ Facial Expression Recognition <a href="https://www.youtube.com/watch?v=Dv2_z1TCI
 Research in Anomaly Detection applying Deep learnig.</p>
 <p align="justify"><a href="https://www.meiji.ac.jp/">Meiji University</a> (March 2022- ). <a href="https://www.kikn.fms.meiji.ac.jp/"> Kikuchi Lab</a>. Research in data privacy which is part of the project <a href="https://www.kikn.fms.meiji.ac.jp/Crest-AHC2022/index_e.html">"Anonymous healthcare cohort with the guarantee of data privacy and utility"</a>.</p>
 <h3>Guest Editor</h3>
-<p align="justify">Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/7PL611X05O">"Artificial Intelligence Technologies for Biomedicine and Healthcare Applications"</a></p>
+<p align="justify">Special Issue <a href="https://www.mdpi.com/journal/electronics/special_issues/7PL611X05O">"Artificial Intelligence Technologies for Biomedicine and Healthcare Applications"</a>
+<p align="justify">Special Issue <a href="https://www.mdpi.com/journal/applsci/special_issues/3O60L7MNGO">"Advanced Technologies in Intelligent Software Methodologies, Tools, and Techniques"</a>
+
+</p>
 
 <h3>Organizing Chair</h3>
 
