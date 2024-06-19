@@ -189,7 +189,7 @@ doi: 10.1109/PST55820.2022.9851976.</p>
 
 <p align="justify"> C19. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://atenea.esimecu.ipn.mx/">Meaningful performance analysis on Healthcare Data under Local Differential Privacy</a>, to be presented at SOMET 2024.</p>
 
-<p align="justify"> C20.Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., <a href="https://atenea.esimecu.ipn.mx/">Machine learning-based approach to correct saturated flow boiling heat transfer correlations</a>, to be presented at SOMET 2024.</p>
+<p align="justify"> C20. Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., <a href="https://atenea.esimecu.ipn.mx/">Machine learning-based approach to correct saturated flow boiling heat transfer correlations</a>, to be presented at SOMET 2024.</p>
 
 
 
