@@ -7,6 +7,7 @@
 <a href="https://orcid.org/0000-0002-4896-2909">ORCID</a>,
 <a href="https://www.researchgate.net/profile/Andres-Hernandez-Matamoros">Research Gate</a>,
 <a href="https://www.scopus.com/authid/detail.uri?authorId=56646446200">Scopus</a>,
+<a href="https://dblp.org/pid/178/8413.html">DBLP</a>,
 <a href="https://researchmap.jp/matamoros?lang=en">Research Map</a>,
 <a href="https://sciprofiles.com/profile/2652034">SciProfiles</a><br>
 Email:<a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>, <a href="mailto:phd.matamoros@gmail.com">phd.matamoros@gmail.com</a>
@@ -16,7 +17,7 @@ Email:<a href="mailto:matamoros@meiji.ac.jp">matamoros@meiji.ac.jp</a>, <a href=
 Data Privacy, Machine Learning, Deep Learning, Image Processing, Anomaly Detection, Processing Digital Signals		
 	
 <h2 id="projects">Projects</h2>
-Facial Expression Recognition <a href="https://www.youtube.com/watch?v=Dv2_z1TCIP4">Video</a><br>
+Automatic segmentation of the forehead, eyes, and mouth regions <a href="https://www.youtube.com/watch?v=Dv2_z1TCIP4">Video</a><br>
 <a href="https://doi.org/10.1007/s12652-019-01400-4">Skin detection</a><br>
 <a href="https://doi.org/10.1016/j.bbe.2020.02.007">Recognition of ECG Signals</a><br>
 <a href="https://phdmatamoros.github.io/BiRNN/">Creating synthetic biomedical signals</a><br>
@@ -66,10 +67,10 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 <h3>Organizing Chair</h3>
 
-<a href="https://www.i-somet.org/">SoMeT 2021 Mexico-Cancun</a></p>
+<a align="justify"><a href="https://www.i-somet.org/iea-aie2025/index.html">IEA/AIE 2025 Kytakyushu-Japan</a>, <a href="https://www.i-somet.org/">SoMeT 2021 Mexico-Cancun</a></p>
 
 <h3>Program Chair</h3>
-<p align="justify"><a href="https://atenea.esimecu.ipn.mx/">SoMeT 2024 Mexico-Cancun</a>, <a align="justify"><a href="https://www.ieaaie2024.com/">IEA/AIE 2024 Czech Republic-Hradec Kralove</a>
+<p align="justify"><a href="https://www.i-somet.org/somet2025/">SoMeT 2025 Kytakyushu-Japan</a>, <p align="justify"><a href="https://atenea.esimecu.ipn.mx/">SoMeT 2024 Mexico-Cancun</a>, <a align="justify"><a href="https://www.ieaaie2024.com/">IEA/AIE 2024 Czech Republic-Hradec Kralove</a>
 
 
 <h3>Publicity Chair</h3>
@@ -134,14 +135,18 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 <p align="justify">J6. Toshitaka Hayashi, Hamido Fujita, <u>Andres Hernandez-Matamoros</u>, <a href="https://doi.org/10.1016/j.ins.2021.01.069">Less complexity oneclass classification approach using construction error of convolutional image transformation network</a>,Information Sciences,Volume 560,Pages 217-234, 06-2021, ISSN 0020-0255.</p>
 
+<!-- Write your comments here
 <p align="justify">J7. <u>Andres Hernandez-Matamoros</u>, Ryota Wada, et al., <a href="https://arxiv.org/abs/2302.11135v2">Semi Supervised Early Stuck Detection</a>, Under revision at <a href="https://onepetro.org/sj">SPE journal.</a></p>
+ -->
 
-<p align="justify">J8. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">Ozone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>, Science of The Total Environment, 2023, 169180, ISSN 0048-9697.</p>
+<p align="justify">J7. Jairo Vazquez Santiago, Monica Jaimes Palomera, Cintia Resendiz Martinez, <u>Andres Hernandez-Matamoros</u>, Hiroo Hata, Kazuya Inoue, Kenichi Tonokura, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969723078105">Ozone responses to reduced precursor emissions: A modeling analysis on how attainable goals can improve air quality in the Mexico City Metropolitan Area</a>, Science of The Total Environment, 2023, 169180, ISSN 0048-9697.</p>
 
-<p align="justify">J9. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://www.mdpi.com/2076-3417/14/7/2864">Comparative Analysis of Local Differential Privacy Schemes in Healthcare Datasets</a>, Appl. Sci. 2024, 14, 2864. https://doi.org/10.3390/app14072864.
+<p align="justify">J8. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://www.mdpi.com/2076-3417/14/7/2864">Comparative Analysis of Local Differential Privacy Schemes in Healthcare Datasets</a>, Appl. Sci. 2024, 14, 2864. https://doi.org/10.3390/app14072864.
 
 <h2 id="books">Books</h2>
 <p align="justify">B1. Fujita, H., Cimler, R., <u>Hernandez-Matamoros A.</u>, & Ali, M. (Eds.). (2024). <a href="https://link.springer.com/book/9789819746767">Advances and Trends in Artificial Intelligence. Theory and Applications: 37th International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems</a>, IEA/AIE 2024, Hradec Kralove, Czech Republic, July 10–12, 2024, Proceedings. Springer Singapore. https://doi.org/10.1007/978-981-97-4677-4
+
+<p align="justify">B2. Hamido Fujita, Héctor M. Pérez Meana, <u>Andres Hernandez-Matamoros</u>: <a href="https://ebooks.iospress.nl/volume/new-trends-in-intelligent-software-methodologies-tools-and-techniques-proceedings-of-the-23rd-international-conference-on-new-trends-in-intelligent-software-met"> New Trends in Intelligent Software Methodologies, Tools and Techniques - Proceedings of the 23rd International Conference on New Trends in Intelligent Software Methodologies, Tools and Techniques (SoMeT_24)</a>, Cancun, Mexico, September 24-26, 2024. Frontiers in Artificial Intelligence and Applications 389, IOS Press 2024, ISBN 978-1-64368-538-0
 
 <h2 id="conference-publications">Conference Publications</h2>
 
@@ -181,15 +186,19 @@ doi: 10.1109/PST55820.2022.9851976.</p>
  
 <p align="justify">C16. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://cir.nii.ac.jp/crid/1050297969507822720">A Randomized Response Layer for Ensuring User Privacy in Synthetic Data Generation</a>, Computer Security Symposium 2023.</p>
 
-<p align="justify">C17. 菊池浩明, <u>Andres Hernandez-Matamoros</u>, 福山啓太, <a href="https://www.ipsj.or.jp/kenkyukai/event/csec106spt56.html">ポリファーマシーの差分プライベートなリスク因子分析</a>, to be presented at CSEC 2024.</p>
+<p align="justify">C17. 菊池浩明, <u>Andres Hernandez-Matamoros</u>, 福山啓太, <a href="https://www.ipsj.or.jp/kenkyukai/event/csec106spt56.html">ポリファーマシーの差分プライベートなリスク因子分析</a>, CSEC 2024.</p>
 	
 <p align="justify">C18. Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., 2024.
 <a href="https://iopscience.iop.org/article/10.1088/1742-6596/2766/1/012152/meta">Prediction of heat transfer coefficient and pressure drop of flow boiling and condensation using machine learning</a>, Journal of Physics: Conference Series 2766, 012152. URL: https://dx.doi.org/10.1088/1742-6596/2766/1/012152, https://doi.org/10.1088/1742-6596/2766/1/012152.</p>
 
 
-<p align="justify"> C19. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://atenea.esimecu.ipn.mx/">Meaningful performance analysis on Healthcare Data under Local Differential Privacy</a>, to be presented at SOMET 2024.</p>
+<p align="justify"> C19. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://ebooks.iospress.nl/volumearticle/69288">Meaningful performance analysis on Healthcare Data under Local Differential Privacy</a>. SoMeT 2024: 398-411.</p>
 
-<p align="justify"> C20. Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., <a href="https://atenea.esimecu.ipn.mx/">Machine learning-based approach to correct saturated flow boiling heat transfer correlations</a>, to be presented at SOMET 2024.</p>
+<p align="justify"> C20. Galicia, E.S., <u>Andres Hernandez-Matamoros</u>, Miyara, A., <a href="https://ebooks.iospress.nl/volumearticle/69273">Machine learning-based approach to correct saturated flow boiling heat transfer correlations</a>. SoMeT 2024: 235-248</p>
+
+<p align="justify"> C21. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://nsclab.org/nss-socialsec2024/papers.html">Training Machine Learning Models for Behavior Estimation from Smartwatch with Local Differential Privacy</a>,  Computer Security Symposium 2023.</p>
+
+<p align="justify"> C22. <u>Andres Hernandez-Matamoros</u>, Hiroaki Kikuchi, <a href="https://nsclab.org/nss-socialsec2024/papers.html">Secure Aggregation of Smartwatch Health Data with LDP</a>, to be presented at Social Sec 2024.</p>
 
 
 
