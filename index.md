@@ -67,10 +67,10 @@ Research in Anomaly Detection applying Deep learnig.</p>
 
 <h3>Organizing Chair</h3>
 
-<a align="justify"><a href="https://www.i-somet.org/iea-aie2025/index.html">IEA/AIE 2025 Kytakyushu-Japan</a>, <a href="https://www.i-somet.org/">SoMeT 2021 Mexico-Cancun</a></p>
+<a align="justify"><a href="https://www.i-somet.org/iea-aie2025/index.html">IEA/AIE 2025 Kytakyushu-Japan</a>, <a href="https://www.i-somet.org/">SoMeT 2021 Mexico-Cancun</a>
 
 <h3>Program Chair</h3>
-<p align="justify"><a href="https://www.i-somet.org/somet2025/">SoMeT 2025 Kytakyushu-Japan</a>, <p align="justify"><a href="https://atenea.esimecu.ipn.mx/">SoMeT 2024 Mexico-Cancun</a>, <a align="justify"><a href="https://www.ieaaie2024.com/">IEA/AIE 2024 Czech Republic-Hradec Kralove</a>
+<p align="justify"><a href="https://www.i-somet.org/somet2025/">SoMeT 2025 Kytakyushu-Japan</a>, <a href="https://atenea.esimecu.ipn.mx/">SoMeT 2024 Mexico-Cancun</a>, <a align="justify"><a href="https://www.ieaaie2024.com/">IEA/AIE 2024 Czech Republic-Hradec Kralove</a>
 
 
 <h3>Publicity Chair</h3>
