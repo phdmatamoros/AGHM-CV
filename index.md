@@ -32,7 +32,7 @@ Automatic segmentation of the forehead, eyes, and mouth regions <a href="https:/
   <li>Information Processing Society of Japan (IPSJ), Computer Security Research Group (CSEC)</li>
   <li>Date:October 2024</li>
   <li>Description:Awarded at the 106th Computer Security Research Meeting (CSEC) for the paper 
-"Differentially Private Risk Factor Analysis for Polypharmacy," recognizing excellence in research 
+"<a href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=237124&item_no=1">Differentially Private Risk Factor Analysis for Polypharmacy</a>(Japanese)," recognizing excellence in research 
 on risk factor analysis with differential privacy.</li>
   </ul>
 
