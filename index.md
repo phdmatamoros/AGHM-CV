@@ -25,6 +25,18 @@ Automatic segmentation of the forehead, eyes, and mouth regions <a href="https:/
 <a href="https://phdmatamoros.github.io/StuckDetection/">Anomaly Detection</a><br>
 <a href="https://github.com/phdmatamoros/New-LDP-approach-using-VAE">Data Privacy using VAE</a><br>
 
+<h2 id="projects">Awards</h2>
+<div>
+    <h3><a href="CSESC24.pdf">CSEC Outstanding Research Award</h3>
+    <p><em>Information Processing Society of Japan (IPSJ), Computer Security Research Group (CSEC)</em></p>
+    <p><strong>Date:</strong> October 2024</p>
+    <p><strong>Description:</strong> Awarded at the 106th Computer Security Research Meeting (CSEC) for the paper 
+      "<em>Differentially Private Risk Factor Analysis for Polypharmacy</em>," recognizing excellence in research 
+      on risk factor analysis with differential privacy.
+    </p>
+  </div>
+
+
 <h2 id="distinctions">Distinctions</h2>
 
 <p>National System of Researchers, Level 1 (Mexico-CONACyT) <a href="SNI.pdf">Document in Spanish</a></p>
