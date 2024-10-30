@@ -28,13 +28,19 @@ Automatic segmentation of the forehead, eyes, and mouth regions <a href="https:/
 <h2 id="projects">Awards</h2>
 
 <a href="CSEC24.pdf">CSEC Outstanding Research Award</a>
-    <ul>
-      <li><em>Information Processing Society of Japan (IPSJ), Computer Security Research Group (CSEC)</em></li>
-      <li><strong>Date:October 2024</li>
-       <li>Description:Awarded at the 106th Computer Security Research Meeting (CSEC) for the paper 
-      "<em>Differentially Private Risk Factor Analysis for Polypharmacy</em>," recognizing excellence in research 
-      on risk factor analysis with differential privacy.</li>
-    </ul>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+<ul>
+<li><em>Information Processing Society of Japan (IPSJ), Computer Security Research Group (CSEC)</em></li>
+<li><strong>Date:October 2024</li>
+<li>Description:Awarded at the 106th Computer Security Research Meeting (CSEC) for the paper 
+"<em>Differentially Private Risk Factor Analysis for Polypharmacy</em>," recognizing excellence in research 
+on risk factor analysis with differential privacy.</li>
+</ul>
 
 
 
