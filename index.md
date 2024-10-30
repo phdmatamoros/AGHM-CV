@@ -34,7 +34,6 @@ Automatic segmentation of the forehead, eyes, and mouth regions <a href="https:/
   <li>Description:Awarded at the 106th Computer Security Research Meeting (CSEC) for the paper 
 "Differentially Private Risk Factor Analysis for Polypharmacy," recognizing excellence in research 
 on risk factor analysis with differential privacy.</li>
-</ul>
 
 
 
