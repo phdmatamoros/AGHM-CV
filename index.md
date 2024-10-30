@@ -26,8 +26,6 @@ Automatic segmentation of the forehead, eyes, and mouth regions <a href="https:/
 <a href="https://github.com/phdmatamoros/New-LDP-approach-using-VAE">Data Privacy using VAE</a><br>
 
 <h2 id="projects">Awards</h2>
-
-<div>
 <ul>
 <li><a href="CSESC24.pdf">CSEC Outstanding Research Award</a></li>
     <ul>
@@ -38,7 +36,7 @@ Automatic segmentation of the forehead, eyes, and mouth regions <a href="https:/
       on risk factor analysis with differential privacy.</li>
     </ul>
 </ul>
-</div>
+
 
 
 
