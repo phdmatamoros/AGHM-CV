@@ -27,7 +27,7 @@ Automatic segmentation of the forehead, eyes, and mouth regions <a href="https:/
 
 <h2 id="projects">Awards</h2>
 <div>
-    <h3><a href="CSESC24.pdf">CSEC Outstanding Research Award</h3>
+    <h3><a href="CSESC24.pdf">CSEC Outstanding Research Award</a></h3>
     <p><em>Information Processing Society of Japan (IPSJ), Computer Security Research Group (CSEC)</em></p>
     <p><strong>Date:</strong> October 2024</p>
     <p><strong>Description:</strong> Awarded at the 106th Computer Security Research Meeting (CSEC) for the paper 
